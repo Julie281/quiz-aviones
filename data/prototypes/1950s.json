@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "cohete",
     "engines": 1,
-    "image": "images/bell-x2.jpg"
+    "image": "images/bell-x2.jpg",
+    "wikiTitle": "Bell_X-2"
   },
   {
     "id": "boeing-dash80",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 4,
-    "image": "images/boeing-dash80.jpg"
+    "image": "images/boeing-dash80.jpg",
+    "wikiTitle": "Boeing_Dash_80"
   },
   {
     "id": "cf105-arrow",
@@ -33,7 +35,8 @@
     "country": "Canadá",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/cf105-arrow.jpg"
+    "image": "images/cf105-arrow.jpg",
+    "wikiTitle": "Avro_Canada_CF-105_Arrow"
   },
   {
     "id": "x15",
@@ -45,6 +48,7 @@
     "country": "Estados Unidos",
     "propulsion": "cohete",
     "engines": 1,
-    "image": "images/x15.jpg"
+    "image": "images/x15.jpg",
+    "wikiTitle": "North_American_X-15"
   }
 ]

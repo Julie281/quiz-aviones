@@ -11,6 +11,7 @@
     "engines": 2,
     "seats": 244,
     "rangeNm": 4700,
-    "image": "images/airbus-a321xlr.jpg"
+    "image": "images/airbus-a321xlr.jpg",
+    "wikiTitle": "Airbus_A321XLR"
   }
 ]

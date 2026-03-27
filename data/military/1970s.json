@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/f14.jpg"
+    "image": "images/f14.jpg",
+    "wikiTitle": "Grumman_F-14_Tomcat"
   },
   {
     "id": "f15",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/f15.jpg"
+    "image": "images/f15.jpg",
+    "wikiTitle": "McDonnell_Douglas_F-15_Eagle"
   },
   {
     "id": "f16",
@@ -33,7 +35,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/f16.jpg"
+    "image": "images/f16.jpg",
+    "wikiTitle": "General_Dynamics_F-16_Fighting_Falcon"
   },
   {
     "id": "a10",
@@ -45,7 +48,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/a10.jpg"
+    "image": "images/a10.jpg",
+    "wikiTitle": "Fairchild_Republic_A-10_Thunderbolt_II"
   },
   {
     "id": "fa18",
@@ -57,7 +61,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/fa18.jpg"
+    "image": "images/fa18.jpg",
+    "wikiTitle": "McDonnell_Douglas_F/A-18_Hornet"
   },
   {
     "id": "e3-sentry",
@@ -69,7 +74,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 4,
-    "image": "images/e3-sentry.jpg"
+    "image": "images/e3-sentry.jpg",
+    "wikiTitle": "Boeing_E-3_Sentry"
   },
   {
     "id": "mig29",
@@ -81,7 +87,8 @@
     "country": "URSS",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/mig29.jpg"
+    "image": "images/mig29.jpg",
+    "wikiTitle": "Mikoyan_MiG-29"
   },
   {
     "id": "su27",
@@ -93,6 +100,7 @@
     "country": "URSS",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/su27.jpg"
+    "image": "images/su27.jpg",
+    "wikiTitle": "Sukhoi_Su-27"
   }
 ]

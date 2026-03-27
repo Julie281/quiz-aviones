@@ -9,7 +9,8 @@
     "country": "Brasil",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/kc390.jpg"
+    "image": "images/kc390.jpg",
+    "wikiTitle": "Embraer_C-390_Millennium"
   },
   {
     "id": "j20",
@@ -21,7 +22,8 @@
     "country": "China",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/j20.jpg"
+    "image": "images/j20.jpg",
+    "wikiTitle": "Chengdu_J-20"
   },
   {
     "id": "su57",
@@ -33,6 +35,7 @@
     "country": "Rusia",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/su57.jpg"
+    "image": "images/su57.jpg",
+    "wikiTitle": "Sukhoi_Su-57"
   }
 ]

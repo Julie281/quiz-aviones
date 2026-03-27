@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/f35.jpg"
+    "image": "images/f35.jpg",
+    "wikiTitle": "Lockheed_Martin_F-35_Lightning_II"
   },
   {
     "id": "a400m",
@@ -21,7 +22,8 @@
     "country": "Europa",
     "propulsion": "turbohélice",
     "engines": 4,
-    "image": "images/a400m.jpg"
+    "image": "images/a400m.jpg",
+    "wikiTitle": "Airbus_A400M_Atlas"
   },
   {
     "id": "p8",
@@ -33,6 +35,7 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/p8.jpg"
+    "image": "images/p8.jpg",
+    "wikiTitle": "Boeing_P-8_Poseidon"
   }
 ]

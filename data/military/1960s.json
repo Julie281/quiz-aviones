@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/f4-phantom.jpg"
+    "image": "images/f4-phantom.jpg",
+    "wikiTitle": "McDonnell_Douglas_F-4_Phantom_II"
   },
   {
     "id": "sr71",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/sr71.jpg"
+    "image": "images/sr71.jpg",
+    "wikiTitle": "Lockheed_SR-71_Blackbird"
   },
   {
     "id": "rc135w",
@@ -33,6 +35,7 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 4,
-    "image": "images/rc135w.jpg"
+    "image": "images/rc135w.jpg",
+    "wikiTitle": "Boeing_RC-135"
   }
 ]

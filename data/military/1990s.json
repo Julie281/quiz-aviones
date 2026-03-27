@@ -9,7 +9,8 @@
     "country": "Europa",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/typhoon.jpg"
+    "image": "images/typhoon.jpg",
+    "wikiTitle": "Eurofighter_Typhoon"
   },
   {
     "id": "f22",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/f22.jpg"
+    "image": "images/f22.jpg",
+    "wikiTitle": "Lockheed_Martin_F-22_Raptor"
   },
   {
     "id": "c17",
@@ -33,6 +35,7 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 4,
-    "image": "images/c17.jpg"
+    "image": "images/c17.jpg",
+    "wikiTitle": "Boeing_C-17_Globemaster_III"
   }
 ]

@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "cohete",
     "engines": 1,
-    "image": "images/bell-x1.jpg"
+    "image": "images/bell-x1.jpg",
+    "wikiTitle": "Bell_X-1"
   },
   {
     "id": "northrop-xb35",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "hélice",
     "engines": 4,
-    "image": "images/northrop-xb35.jpg"
+    "image": "images/northrop-xb35.jpg",
+    "wikiTitle": "Northrop_XB-35"
   },
   {
     "id": "convair-xf92",
@@ -33,6 +35,7 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 1,
-    "image": "images/convair-xf92.jpg"
+    "image": "images/convair-xf92.jpg",
+    "wikiTitle": "Convair_XF-92"
   }
 ]

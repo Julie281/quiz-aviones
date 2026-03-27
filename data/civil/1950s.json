@@ -9,7 +9,8 @@
     "country": "Reino Unido",
     "propulsion": "turbohélice",
     "engines": 4,
-    "image": "images/vickers-viscount.jpg"
+    "image": "images/vickers-viscount.jpg",
+    "wikiTitle": "Vickers_Viscount"
   },
   {
     "id": "boeing-707",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 4,
-    "image": "images/boeing-707.jpg"
+    "image": "images/boeing-707.jpg",
+    "wikiTitle": "Boeing_707"
   },
   {
     "id": "douglas-dc8",
@@ -33,6 +35,7 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 4,
-    "image": "images/douglas-dc8.jpg"
+    "image": "images/douglas-dc8.jpg",
+    "wikiTitle": "Douglas_DC-8"
   }
 ]

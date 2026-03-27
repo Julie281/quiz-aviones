@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 6,
-    "image": "images/xb70.jpg"
+    "image": "images/xb70.jpg",
+    "wikiTitle": "North_American_XB-70_Valkyrie"
   },
   {
     "id": "tsr2",
@@ -21,7 +22,8 @@
     "country": "Reino Unido",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/tsr2.jpg"
+    "image": "images/tsr2.jpg",
+    "wikiTitle": "BAC_TSR-2"
   },
   {
     "id": "sukhoi-t4",
@@ -33,7 +35,8 @@
     "country": "URSS",
     "propulsion": "turborreactor",
     "engines": 4,
-    "image": "images/sukhoi-t4.jpg"
+    "image": "images/sukhoi-t4.jpg",
+    "wikiTitle": "Sukhoi_T-4"
   },
   {
     "id": "xc142",
@@ -45,6 +48,7 @@
     "country": "Estados Unidos",
     "propulsion": "turbohélice",
     "engines": 4,
-    "image": "images/xc142.jpg"
+    "image": "images/xc142.jpg",
+    "wikiTitle": "LTV_XC-142"
   }
 ]

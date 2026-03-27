@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "hélice",
     "engines": 1,
-    "image": "images/p51-mustang.jpg"
+    "image": "images/p51-mustang.jpg",
+    "wikiTitle": "North_American_P-51_Mustang"
   },
   {
     "id": "spitfire-mkxiv",
@@ -21,7 +22,8 @@
     "country": "Reino Unido",
     "propulsion": "hélice",
     "engines": 1,
-    "image": "images/spitfire-mkxiv.jpg"
+    "image": "images/spitfire-mkxiv.jpg",
+    "wikiTitle": "Supermarine_Spitfire"
   },
   {
     "id": "me262",
@@ -33,7 +35,8 @@
     "country": "Alemania",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/me262.jpg"
+    "image": "images/me262.jpg",
+    "wikiTitle": "Messerschmitt_Me_262"
   },
   {
     "id": "b29",
@@ -45,7 +48,8 @@
     "country": "Estados Unidos",
     "propulsion": "hélice",
     "engines": 4,
-    "image": "images/b29.jpg"
+    "image": "images/b29.jpg",
+    "wikiTitle": "Boeing_B-29_Superfortress"
   },
   {
     "id": "gloster-meteor",
@@ -57,7 +61,8 @@
     "country": "Reino Unido",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/gloster-meteor.jpg"
+    "image": "images/gloster-meteor.jpg",
+    "wikiTitle": "Gloster_Meteor"
   },
   {
     "id": "f86-sabre",
@@ -69,7 +74,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 1,
-    "image": "images/f86-sabre.jpg"
+    "image": "images/f86-sabre.jpg",
+    "wikiTitle": "North_American_F-86_Sabre"
   },
   {
     "id": "mig15",
@@ -81,6 +87,7 @@
     "country": "URSS",
     "propulsion": "turborreactor",
     "engines": 1,
-    "image": "images/mig15.jpg"
+    "image": "images/mig15.jpg",
+    "wikiTitle": "Mikoyan-Gurevich_MiG-15"
   }
 ]

@@ -9,7 +9,8 @@
     "country": "Reino Unido",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/canberra.jpg"
+    "image": "images/canberra.jpg",
+    "wikiTitle": "English_Electric_Canberra"
   },
   {
     "id": "b52h",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 8,
-    "image": "images/b52h.jpg"
+    "image": "images/b52h.jpg",
+    "wikiTitle": "Boeing_B-52_Stratofortress"
   },
   {
     "id": "u2",
@@ -33,7 +35,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 1,
-    "image": "images/u2.jpg"
+    "image": "images/u2.jpg",
+    "wikiTitle": "Lockheed_U-2"
   },
   {
     "id": "c130",
@@ -45,7 +48,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbohélice",
     "engines": 4,
-    "image": "images/c130.jpg"
+    "image": "images/c130.jpg",
+    "wikiTitle": "Lockheed_C-130_Hercules"
   },
   {
     "id": "mig21",
@@ -57,7 +61,8 @@
     "country": "URSS",
     "propulsion": "turborreactor",
     "engines": 1,
-    "image": "images/mig21.jpg"
+    "image": "images/mig21.jpg",
+    "wikiTitle": "Mikoyan-Gurevich_MiG-21"
   },
   {
     "id": "mirage-iii",
@@ -69,6 +74,7 @@
     "country": "Francia",
     "propulsion": "turborreactor",
     "engines": 1,
-    "image": "images/mirage-iii.jpg"
+    "image": "images/mirage-iii.jpg",
+    "wikiTitle": "Dassault_Mirage_III"
   }
 ]

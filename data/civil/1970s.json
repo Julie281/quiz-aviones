@@ -9,6 +9,7 @@
     "country": "Europa",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/airbus-a300.jpg"
+    "image": "images/airbus-a300.jpg",
+    "wikiTitle": "Airbus_A300"
   }
 ]

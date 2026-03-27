@@ -9,7 +9,8 @@
     "country": "Canadá",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/crj200.jpg"
+    "image": "images/crj200.jpg",
+    "wikiTitle": "Bombardier_CRJ200"
   },
   {
     "id": "erj145",
@@ -21,7 +22,8 @@
     "country": "Brasil",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/erj145.jpg"
+    "image": "images/erj145.jpg",
+    "wikiTitle": "Embraer_ERJ_family"
   },
   {
     "id": "airbus-a330-300",
@@ -36,7 +38,8 @@
     "seats": 440,
     "cruiseLabel": "Mach 0.82",
     "rangeNm": 6350,
-    "image": "images/airbus-a330-300.jpg"
+    "image": "images/airbus-a330-300.jpg",
+    "wikiTitle": "Airbus_A330"
   },
   {
     "id": "boeing-777-200er",
@@ -51,6 +54,7 @@
     "seats": 314,
     "cruiseLabel": "Mach 0.84",
     "rangeNm": 7065,
-    "image": "images/boeing-777-200er.jpg"
+    "image": "images/boeing-777-200er.jpg",
+    "wikiTitle": "Boeing_777"
   }
 ]

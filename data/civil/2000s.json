@@ -10,7 +10,8 @@
     "propulsion": "turbofan",
     "engines": 4,
     "seats": 853,
-    "image": "images/airbus-a380-800.jpg"
+    "image": "images/airbus-a380-800.jpg",
+    "wikiTitle": "Airbus_A380"
   },
   {
     "id": "embraer-e190",
@@ -24,6 +25,7 @@
     "engines": 2,
     "seats": 114,
     "cruiseLabel": "Mach 0.82",
-    "image": "images/embraer-e190.jpg"
+    "image": "images/embraer-e190.jpg",
+    "wikiTitle": "Embraer_E-Jet_family"
   }
 ]

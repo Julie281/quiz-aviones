@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 4,
-    "image": "images/b2-spirit.jpg"
+    "image": "images/b2-spirit.jpg",
+    "wikiTitle": "Northrop_Grumman_B-2_Spirit"
   },
   {
     "id": "rafale",
@@ -21,7 +22,8 @@
     "country": "Francia",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/rafale.jpg"
+    "image": "images/rafale.jpg",
+    "wikiTitle": "Dassault_Rafale"
   },
   {
     "id": "gripen",
@@ -33,6 +35,7 @@
     "country": "Suecia",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/gripen.jpg"
+    "image": "images/gripen.jpg",
+    "wikiTitle": "Saab_JAS_39_Gripen"
   }
 ]

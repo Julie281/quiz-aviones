@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 3,
-    "image": "images/boeing-727.jpg"
+    "image": "images/boeing-727.jpg",
+    "wikiTitle": "Boeing_727"
   },
   {
     "id": "douglas-dc9",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/douglas-dc9.jpg"
+    "image": "images/douglas-dc9.jpg",
+    "wikiTitle": "Douglas_DC-9"
   },
   {
     "id": "boeing-737-200",
@@ -33,7 +35,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/boeing-737-200.jpg"
+    "image": "images/boeing-737-200.jpg",
+    "wikiTitle": "Boeing_737_Original"
   },
   {
     "id": "boeing-747-100",
@@ -45,7 +48,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 4,
-    "image": "images/boeing-747-100.jpg"
+    "image": "images/boeing-747-100.jpg",
+    "wikiTitle": "Boeing_747"
   },
   {
     "id": "concorde",
@@ -57,6 +61,7 @@
     "country": "Francia / Reino Unido",
     "propulsion": "turborreactor",
     "engines": 4,
-    "image": "images/concorde.jpg"
+    "image": "images/concorde.jpg",
+    "wikiTitle": "Concorde"
   }
 ]

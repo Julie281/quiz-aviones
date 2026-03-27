@@ -12,7 +12,8 @@
     "seats": 296,
     "cruiseLabel": "Mach 0.85",
     "rangeNm": 7565,
-    "image": "images/boeing-787-9.jpg"
+    "image": "images/boeing-787-9.jpg",
+    "wikiTitle": "Boeing_787_Dreamliner"
   },
   {
     "id": "airbus-a350-900",
@@ -27,7 +28,8 @@
     "seats": 440,
     "cruiseLabel": "Mach 0.85",
     "rangeNm": 8500,
-    "image": "images/airbus-a350-900.jpg"
+    "image": "images/airbus-a350-900.jpg",
+    "wikiTitle": "Airbus_A350"
   },
   {
     "id": "airbus-a220-300",
@@ -41,7 +43,8 @@
     "engines": 2,
     "seats": 149,
     "cruiseLabel": "Mach 0.82",
-    "image": "images/airbus-a220-300.jpg"
+    "image": "images/airbus-a220-300.jpg",
+    "wikiTitle": "Airbus_A220"
   },
   {
     "id": "embraer-e195-e2",
@@ -55,7 +58,8 @@
     "engines": 2,
     "seats": 146,
     "cruiseLabel": "Mach 0.82",
-    "image": "images/embraer-e195-e2.jpg"
+    "image": "images/embraer-e195-e2.jpg",
+    "wikiTitle": "Embraer_E-Jet_E2_family"
   },
   {
     "id": "boeing-737-max-8",
@@ -69,7 +73,8 @@
     "engines": 2,
     "seats": 210,
     "rangeNm": 3500,
-    "image": "images/boeing-737-max-8.jpg"
+    "image": "images/boeing-737-max-8.jpg",
+    "wikiTitle": "Boeing_737_MAX"
   },
   {
     "id": "comac-c919",
@@ -82,7 +87,8 @@
     "propulsion": "turbofan",
     "engines": 2,
     "seats": 192,
-    "image": "images/comac-c919.jpg"
+    "image": "images/comac-c919.jpg",
+    "wikiTitle": "Comac_C919"
   },
   {
     "id": "irkut-mc21",
@@ -94,6 +100,7 @@
     "country": "Rusia",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/irkut-mc21-300.jpg"
+    "image": "images/irkut-mc21-300.jpg",
+    "wikiTitle": "Irkut_MC-21"
   }
 ]

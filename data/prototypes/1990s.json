@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/x32.jpg"
+    "image": "images/x32.jpg",
+    "wikiTitle": "Boeing_X-32"
   },
   {
     "id": "x35",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/x35.jpg"
+    "image": "images/x35.jpg",
+    "wikiTitle": "Lockheed_Martin_X-35"
   },
   {
     "id": "x36",
@@ -33,7 +35,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 1,
-    "image": "images/x36.jpg"
+    "image": "images/x36.jpg",
+    "wikiTitle": "McDonnell_Douglas_X-36"
   },
   {
     "id": "su47",
@@ -45,6 +48,7 @@
     "country": "Rusia",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/su47.jpg"
+    "image": "images/su47.jpg",
+    "wikiTitle": "Sukhoi_Su-47_Berkut"
   }
 ]

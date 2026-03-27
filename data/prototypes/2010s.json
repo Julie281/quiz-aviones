@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 1,
-    "image": "images/mq25-t1.jpg"
+    "image": "images/mq25-t1.jpg",
+    "wikiTitle": "Boeing_MQ-25_Stingray"
   },
   {
     "id": "e-fan-x",
@@ -21,7 +22,8 @@
     "country": "Europa",
     "propulsion": "híbrido",
     "engines": 4,
-    "image": "images/e-fan-x.jpg"
+    "image": "images/e-fan-x.jpg",
+    "wikiTitle": "Airbus_E-Fan_X"
   },
   {
     "id": "xb1",
@@ -33,6 +35,7 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 3,
-    "image": "images/boom-xb1.jpg"
+    "image": "images/boom-xb1.jpg",
+    "wikiTitle": "Boom_XB-1"
   }
 ]

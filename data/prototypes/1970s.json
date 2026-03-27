@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/yc14.jpg"
+    "image": "images/yc14.jpg",
+    "wikiTitle": "Boeing_YC-14"
   },
   {
     "id": "yc15",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 4,
-    "image": "images/yc15.jpg"
+    "image": "images/yc15.jpg",
+    "wikiTitle": "McDonnell_Douglas_YC-15"
   },
   {
     "id": "have-blue",
@@ -33,7 +35,8 @@
     "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 2,
-    "image": "images/have-blue.jpg"
+    "image": "images/have-blue.jpg",
+    "wikiTitle": "Lockheed_Have_Blue"
   },
   {
     "id": "mirage-4000",
@@ -45,6 +48,7 @@
     "country": "Francia",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/mirage-4000.jpg"
+    "image": "images/mirage-4000.jpg",
+    "wikiTitle": "Dassault_Mirage_4000"
   }
 ]

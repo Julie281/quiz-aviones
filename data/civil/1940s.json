@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "hélice",
     "engines": 4,
-    "image": "images/lockheed-constellation.jpg"
+    "image": "images/lockheed-constellation.jpg",
+    "wikiTitle": "Lockheed_Constellation"
   },
   {
     "id": "dehavilland-comet",
@@ -21,6 +22,7 @@
     "country": "Reino Unido",
     "propulsion": "turborreactor",
     "engines": 4,
-    "image": "images/dehavilland-comet.jpg"
+    "image": "images/dehavilland-comet.jpg",
+    "wikiTitle": "de_Havilland_Comet"
   }
 ]

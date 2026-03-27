@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/x59.jpg"
+    "image": "images/x59.jpg",
+    "wikiTitle": "Lockheed_Martin_X-59_Quesst"
   },
   {
     "id": "x66",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/x66.jpg"
+    "image": "images/x66.jpg",
+    "wikiTitle": "Boeing_X-66"
   },
   {
     "id": "kizilelma-prototype",
@@ -33,6 +35,7 @@
     "country": "Turquía",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/kizilelma-prototype.jpg"
+    "image": "images/kizilelma-prototype.jpg",
+    "wikiTitle": "Bayraktar_Kızılelma"
   }
 ]

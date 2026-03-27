@@ -9,7 +9,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/x29.jpg"
+    "image": "images/x29.jpg",
+    "wikiTitle": "Grumman_X-29"
   },
   {
     "id": "tacit-blue",
@@ -21,7 +22,8 @@
     "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/tacit-blue.jpg"
+    "image": "images/tacit-blue.jpg",
+    "wikiTitle": "Northrop_Tacit_Blue"
   },
   {
     "id": "bae-eap",
@@ -33,6 +35,7 @@
     "country": "Reino Unido",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/bae-eap.jpg"
+    "image": "images/bae-eap.jpg",
+    "wikiTitle": "BAE_EAP"
   }
 ]
