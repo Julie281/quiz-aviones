@@ -1,0 +1,86 @@
+[
+  {
+    "id": "p51-mustang",
+    "name": "North American P-51 Mustang",
+    "manufacturer": "North American Aviation",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 1,
+    "image": "images/p51-mustang.jpg"
+  },
+  {
+    "id": "spitfire-mkxiv",
+    "name": "Supermarine Spitfire Mk XIV",
+    "manufacturer": "Supermarine",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1940s",
+    "country": "Reino Unido",
+    "propulsion": "hélice",
+    "engines": 1,
+    "image": "images/spitfire-mkxiv.jpg"
+  },
+  {
+    "id": "me262",
+    "name": "Messerschmitt Me 262",
+    "manufacturer": "Messerschmitt",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1940s",
+    "country": "Alemania",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/me262.jpg"
+  },
+  {
+    "id": "b29",
+    "name": "Boeing B-29 Superfortress",
+    "manufacturer": "Boeing",
+    "domain": "military",
+    "role": "bombardero",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 4,
+    "image": "images/b29.jpg"
+  },
+  {
+    "id": "gloster-meteor",
+    "name": "Gloster Meteor",
+    "manufacturer": "Gloster",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1940s",
+    "country": "Reino Unido",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/gloster-meteor.jpg"
+  },
+  {
+    "id": "f86-sabre",
+    "name": "North American F-86 Sabre",
+    "manufacturer": "North American Aviation",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/f86-sabre.jpg"
+  },
+  {
+    "id": "mig15",
+    "name": "Mikoyan-Gurevich MiG-15",
+    "manufacturer": "Mikoyan-Gurevich",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1940s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/mig15.jpg"
+  }
+]

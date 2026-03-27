@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b2-spirit",
+    "name": "Northrop B-2 Spirit",
+    "manufacturer": "Northrop",
+    "domain": "military",
+    "role": "bombardero",
+    "decade": "1980s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": "images/b2-spirit.jpg"
+  },
+  {
+    "id": "rafale",
+    "name": "Dassault Rafale",
+    "manufacturer": "Dassault",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1980s",
+    "country": "Francia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/rafale.jpg"
+  },
+  {
+    "id": "gripen",
+    "name": "Saab JAS 39 Gripen",
+    "manufacturer": "Saab",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1980s",
+    "country": "Suecia",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/gripen.jpg"
+  }
+]

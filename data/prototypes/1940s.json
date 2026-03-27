@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bell-x1",
+    "name": "Bell X-1",
+    "manufacturer": "Bell",
+    "domain": "prototype",
+    "role": "experimental",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "cohete",
+    "engines": 1,
+    "image": "images/bell-x1.jpg"
+  },
+  {
+    "id": "northrop-xb35",
+    "name": "Northrop XB-35",
+    "manufacturer": "Northrop",
+    "domain": "prototype",
+    "role": "bombardero experimental",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 4,
+    "image": "images/northrop-xb35.jpg"
+  },
+  {
+    "id": "convair-xf92",
+    "name": "Convair XF-92",
+    "manufacturer": "Convair",
+    "domain": "prototype",
+    "role": "caza experimental",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/convair-xf92.jpg"
+  }
+]

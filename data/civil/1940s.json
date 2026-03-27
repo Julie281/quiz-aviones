@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lockheed-constellation",
+    "name": "Lockheed Constellation",
+    "manufacturer": "Lockheed",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 4,
+    "image": "images/lockheed-constellation.jpg"
+  },
+  {
+    "id": "dehavilland-comet",
+    "name": "de Havilland Comet",
+    "manufacturer": "de Havilland",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1940s",
+    "country": "Reino Unido",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "image": "images/dehavilland-comet.jpg"
+  }
+]

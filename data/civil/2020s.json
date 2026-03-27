@@ -1,0 +1,16 @@
+[
+  {
+    "id": "airbus-a321xlr",
+    "name": "Airbus A321XLR",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "2020s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "seats": 244,
+    "rangeNm": 4700,
+    "image": "images/airbus-a321xlr.jpg"
+  }
+]

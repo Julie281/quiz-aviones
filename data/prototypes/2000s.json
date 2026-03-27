@@ -1,0 +1,38 @@
+[
+  {
+    "id": "x45",
+    "name": "Boeing X-45",
+    "manufacturer": "Boeing",
+    "domain": "prototype",
+    "role": "UCAV experimental",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/x45.jpg"
+  },
+  {
+    "id": "x47b",
+    "name": "Northrop Grumman X-47B",
+    "manufacturer": "Northrop Grumman",
+    "domain": "prototype",
+    "role": "UCAV experimental",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/x47b.jpg"
+  },
+  {
+    "id": "x48",
+    "name": "Boeing X-48",
+    "manufacturer": "Boeing / NASA",
+    "domain": "prototype",
+    "role": "demostrador blended wing",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 3,
+    "image": "images/x48.jpg"
+  }
+]

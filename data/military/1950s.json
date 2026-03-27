@@ -1,0 +1,74 @@
+[
+  {
+    "id": "canberra",
+    "name": "English Electric Canberra",
+    "manufacturer": "English Electric",
+    "domain": "military",
+    "role": "bombardero",
+    "decade": "1950s",
+    "country": "Reino Unido",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/canberra.jpg"
+  },
+  {
+    "id": "b52h",
+    "name": "Boeing B-52H Stratofortress",
+    "manufacturer": "Boeing",
+    "domain": "military",
+    "role": "bombardero",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 8,
+    "image": "images/b52h.jpg"
+  },
+  {
+    "id": "u2",
+    "name": "Lockheed U-2",
+    "manufacturer": "Lockheed",
+    "domain": "military",
+    "role": "reconocimiento",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/u2.jpg"
+  },
+  {
+    "id": "c130",
+    "name": "Lockheed C-130 Hercules",
+    "manufacturer": "Lockheed",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": "images/c130.jpg"
+  },
+  {
+    "id": "mig21",
+    "name": "Mikoyan-Gurevich MiG-21",
+    "manufacturer": "Mikoyan-Gurevich",
+    "domain": "military",
+    "role": "interceptor",
+    "decade": "1950s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/mig21.jpg"
+  },
+  {
+    "id": "mirage-iii",
+    "name": "Dassault Mirage III",
+    "manufacturer": "Dassault",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1950s",
+    "country": "Francia",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/mirage-iii.jpg"
+  }
+]

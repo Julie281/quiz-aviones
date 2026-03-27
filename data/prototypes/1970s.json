@@ -1,0 +1,50 @@
+[
+  {
+    "id": "yc14",
+    "name": "Boeing YC-14",
+    "manufacturer": "Boeing",
+    "domain": "prototype",
+    "role": "transporte experimental",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/yc14.jpg"
+  },
+  {
+    "id": "yc15",
+    "name": "McDonnell Douglas YC-15",
+    "manufacturer": "McDonnell Douglas",
+    "domain": "prototype",
+    "role": "transporte experimental",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": "images/yc15.jpg"
+  },
+  {
+    "id": "have-blue",
+    "name": "Lockheed Have Blue",
+    "manufacturer": "Lockheed",
+    "domain": "prototype",
+    "role": "demostrador furtivo",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/have-blue.jpg"
+  },
+  {
+    "id": "mirage-4000",
+    "name": "Dassault Mirage 4000",
+    "manufacturer": "Dassault",
+    "domain": "prototype",
+    "role": "caza experimental",
+    "decade": "1970s",
+    "country": "Francia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/mirage-4000.jpg"
+  }
+]

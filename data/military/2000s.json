@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f35",
+    "name": "Lockheed Martin F-35 Lightning II",
+    "manufacturer": "Lockheed Martin",
+    "domain": "military",
+    "role": "caza",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/f35.jpg"
+  },
+  {
+    "id": "a400m",
+    "name": "Airbus A400M Atlas",
+    "manufacturer": "Airbus",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "2000s",
+    "country": "Europa",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": "images/a400m.jpg"
+  },
+  {
+    "id": "p8",
+    "name": "Boeing P-8 Poseidon",
+    "manufacturer": "Boeing",
+    "domain": "military",
+    "role": "patrulla marítima",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/p8.jpg"
+  }
+]

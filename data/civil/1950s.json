@@ -1,0 +1,38 @@
+[
+  {
+    "id": "vickers-viscount",
+    "name": "Vickers Viscount",
+    "manufacturer": "Vickers",
+    "domain": "civil",
+    "role": "turbohélice regional",
+    "decade": "1950s",
+    "country": "Reino Unido",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": "images/vickers-viscount.jpg"
+  },
+  {
+    "id": "boeing-707",
+    "name": "Boeing 707",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "image": "images/boeing-707.jpg"
+  },
+  {
+    "id": "douglas-dc8",
+    "name": "Douglas DC-8",
+    "manufacturer": "Douglas",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "image": "images/douglas-dc8.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "xb70",
+    "name": "North American XB-70 Valkyrie",
+    "manufacturer": "North American Aviation",
+    "domain": "prototype",
+    "role": "bombardero experimental",
+    "decade": "1960s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 6,
+    "image": "images/xb70.jpg"
+  },
+  {
+    "id": "tsr2",
+    "name": "BAC TSR-2",
+    "manufacturer": "BAC",
+    "domain": "prototype",
+    "role": "ataque experimental",
+    "decade": "1960s",
+    "country": "Reino Unido",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/tsr2.jpg"
+  },
+  {
+    "id": "sukhoi-t4",
+    "name": "Sukhoi T-4",
+    "manufacturer": "Sukhoi",
+    "domain": "prototype",
+    "role": "bombardero experimental",
+    "decade": "1960s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "image": "images/sukhoi-t4.jpg"
+  },
+  {
+    "id": "xc142",
+    "name": "LTV XC-142",
+    "manufacturer": "Ling-Temco-Vought",
+    "domain": "prototype",
+    "role": "experimental VTOL",
+    "decade": "1960s",
+    "country": "Estados Unidos",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": "images/xc142.jpg"
+  }
+]

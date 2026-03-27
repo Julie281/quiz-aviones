@@ -1,0 +1,56 @@
+[
+  {
+    "id": "crj200",
+    "name": "Bombardier CRJ200",
+    "manufacturer": "Bombardier",
+    "domain": "civil",
+    "role": "reactor regional",
+    "decade": "1990s",
+    "country": "Canadá",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/crj200.jpg"
+  },
+  {
+    "id": "erj145",
+    "name": "Embraer ERJ-145",
+    "manufacturer": "Embraer",
+    "domain": "civil",
+    "role": "reactor regional",
+    "decade": "1990s",
+    "country": "Brasil",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/erj145.jpg"
+  },
+  {
+    "id": "airbus-a330-300",
+    "name": "Airbus A330-300",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1990s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "seats": 440,
+    "cruiseLabel": "Mach 0.82",
+    "rangeNm": 6350,
+    "image": "images/airbus-a330-300.jpg"
+  },
+  {
+    "id": "boeing-777-200er",
+    "name": "Boeing 777-200ER",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "seats": 314,
+    "cruiseLabel": "Mach 0.84",
+    "rangeNm": 7065,
+    "image": "images/boeing-777-200er.jpg"
+  }
+]

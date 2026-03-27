@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz de aviones</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <section class="panel">
+      <header class="topbar">
+        <div>
+          <h1>Quiz de aviones</h1>
+          <p class="subtitle">
+            Carga externa por JSON: civiles por décadas, militares por décadas y prototipos por décadas.
+          </p>
+        </div>
+
+        <div class="toolbar">
+          <div class="field">
+            <label for="playerName">Jugador</label>
+            <input id="playerName" type="text" maxlength="20" placeholder="Tu nombre" />
+          </div>
+
+          <div class="field">
+            <label for="mode">Modo</label>
+            <select id="mode">
+              <option value="mixed">Mezclado</option>
+              <option value="image">Solo imagen</option>
+              <option value="manufacturer">Solo fabricante</option>
+              <option value="seats">Solo plazas</option>
+              <option value="speed">Solo velocidad</option>
+              <option value="engines">Solo motores</option>
+              <option value="lights">Solo luces</option>
+            </select>
+          </div>
+
+          <button id="restartBtn" class="btn btn-secondary" type="button">
+            Reiniciar
+          </button>
+        </div>
+      </header>
+
+      <section id="startScreen" class="screen">
+        <div class="hero-card">
+          <h2>Empieza cuando quieras</h2>
+          <p id="loadingText">
+            Cargando base de datos externa...
+          </p>
+          <button id="startBtn" class="btn btn-primary" type="button" disabled>
+            Empezar quiz
+          </button>
+        </div>
+      </section>
+
+      <section id="quizScreen" class="screen hidden">
+        <div class="status-bar">
+          <div class="badge" id="progressText">Respondidas: 0</div>
+          <div class="badge" id="scoreText">Aciertos: 0</div>
+          <div class="badge" id="timerText">Tiempo: 120s</div>
+        </div>
+
+        <article class="question-card">
+          <div id="imageWrap" class="image-wrap hidden">
+            <img id="planeImage" alt="Imagen del avión" />
+            <div id="imageFallback" class="image-fallback hidden"></div>
+          </div>
+
+          <div class="question-body">
+            <span id="questionTag" class="tag">Pregunta</span>
+            <h2 id="questionText">Texto de la pregunta</h2>
+            <div id="answers" class="answers"></div>
+            <div id="feedback" class="feedback hidden"></div>
+            <div class="actions">
+              <button id="nextBtn" class="btn btn-primary hidden" type="button">
+                Siguiente
+              </button>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section id="resultScreen" class="screen hidden">
+        <div class="hero-card">
+          <h2>Resultado final</h2>
+          <p id="finalScore" class="final-score">Has acertado 0 de 0</p>
+          <p id="finalMessage"></p>
+
+          <div class="hero-card ranking-card">
+            <h3>Clasificación</h3>
+            <ol id="rankingList" class="ranking-list"></ol>
+          </div>
+
+          <div class="result-actions">
+            <button id="playAgainBtn" class="btn btn-primary" type="button">
+              Jugar otra vez
+            </button>
+          </div>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

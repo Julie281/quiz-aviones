@@ -1,0 +1,14 @@
+[
+  {
+    "id": "b21-raider",
+    "name": "Northrop Grumman B-21 Raider",
+    "manufacturer": "Northrop Grumman",
+    "domain": "military",
+    "role": "bombardero",
+    "decade": "2020s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/b21-raider.jpg"
+  }
+]

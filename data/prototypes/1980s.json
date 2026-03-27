@@ -1,0 +1,38 @@
+[
+  {
+    "id": "x29",
+    "name": "Grumman X-29",
+    "manufacturer": "Grumman",
+    "domain": "prototype",
+    "role": "experimental",
+    "decade": "1980s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/x29.jpg"
+  },
+  {
+    "id": "tacit-blue",
+    "name": "Northrop Tacit Blue",
+    "manufacturer": "Northrop",
+    "domain": "prototype",
+    "role": "demostrador furtivo",
+    "decade": "1980s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/tacit-blue.jpg"
+  },
+  {
+    "id": "bae-eap",
+    "name": "BAE EAP",
+    "manufacturer": "BAE",
+    "domain": "prototype",
+    "role": "caza experimental",
+    "decade": "1980s",
+    "country": "Reino Unido",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/bae-eap.jpg"
+  }
+]

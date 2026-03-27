@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f4-phantom",
+    "name": "McDonnell Douglas F-4 Phantom II",
+    "manufacturer": "McDonnell Douglas",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1960s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/f4-phantom.jpg"
+  },
+  {
+    "id": "sr71",
+    "name": "Lockheed SR-71 Blackbird",
+    "manufacturer": "Lockheed",
+    "domain": "military",
+    "role": "reconocimiento",
+    "decade": "1960s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/sr71.jpg"
+  },
+  {
+    "id": "rc135w",
+    "name": "Boeing RC-135W Rivet Joint",
+    "manufacturer": "Boeing",
+    "domain": "military",
+    "role": "guerra electrónica",
+    "decade": "1960s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": "images/rc135w.jpg"
+  }
+]

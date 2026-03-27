@@ -1,0 +1,50 @@
+[
+  {
+    "id": "x32",
+    "name": "Boeing X-32",
+    "manufacturer": "Boeing",
+    "domain": "prototype",
+    "role": "caza experimental",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/x32.jpg"
+  },
+  {
+    "id": "x35",
+    "name": "Lockheed Martin X-35",
+    "manufacturer": "Lockheed Martin",
+    "domain": "prototype",
+    "role": "caza experimental",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/x35.jpg"
+  },
+  {
+    "id": "x36",
+    "name": "McDonnell Douglas X-36",
+    "manufacturer": "McDonnell Douglas",
+    "domain": "prototype",
+    "role": "experimental no tripulado",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/x36.jpg"
+  },
+  {
+    "id": "su47",
+    "name": "Sukhoi Su-47 Berkut",
+    "manufacturer": "Sukhoi",
+    "domain": "prototype",
+    "role": "caza experimental",
+    "decade": "1990s",
+    "country": "Rusia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/su47.jpg"
+  }
+]

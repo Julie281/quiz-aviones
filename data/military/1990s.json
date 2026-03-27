@@ -1,0 +1,38 @@
+[
+  {
+    "id": "typhoon",
+    "name": "Eurofighter Typhoon",
+    "manufacturer": "Eurofighter",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1990s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/typhoon.jpg"
+  },
+  {
+    "id": "f22",
+    "name": "Lockheed Martin F-22 Raptor",
+    "manufacturer": "Lockheed Martin",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/f22.jpg"
+  },
+  {
+    "id": "c17",
+    "name": "Boeing C-17 Globemaster III",
+    "manufacturer": "Boeing",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": "images/c17.jpg"
+  }
+]

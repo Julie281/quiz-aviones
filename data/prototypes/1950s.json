@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bell-x2",
+    "name": "Bell X-2",
+    "manufacturer": "Bell",
+    "domain": "prototype",
+    "role": "experimental",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "cohete",
+    "engines": 1,
+    "image": "images/bell-x2.jpg"
+  },
+  {
+    "id": "boeing-dash80",
+    "name": "Boeing Dash 80",
+    "manufacturer": "Boeing",
+    "domain": "prototype",
+    "role": "prototipo civil",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "image": "images/boeing-dash80.jpg"
+  },
+  {
+    "id": "cf105-arrow",
+    "name": "Avro Canada CF-105 Arrow",
+    "manufacturer": "Avro Canada",
+    "domain": "prototype",
+    "role": "interceptor experimental",
+    "decade": "1950s",
+    "country": "Canadá",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/cf105-arrow.jpg"
+  },
+  {
+    "id": "x15",
+    "name": "North American X-15",
+    "manufacturer": "North American Aviation",
+    "domain": "prototype",
+    "role": "experimental",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "cohete",
+    "engines": 1,
+    "image": "images/x15.jpg"
+  }
+]

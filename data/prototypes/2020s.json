@@ -1,0 +1,38 @@
+[
+  {
+    "id": "x59",
+    "name": "NASA X-59 QueSST",
+    "manufacturer": "Lockheed Martin / NASA",
+    "domain": "prototype",
+    "role": "supersónico experimental",
+    "decade": "2020s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/x59.jpg"
+  },
+  {
+    "id": "x66",
+    "name": "Boeing X-66",
+    "manufacturer": "Boeing / NASA",
+    "domain": "prototype",
+    "role": "experimental",
+    "decade": "2020s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/x66.jpg"
+  },
+  {
+    "id": "kizilelma-prototype",
+    "name": "Baykar Kızılelma Prototype",
+    "manufacturer": "Baykar",
+    "domain": "prototype",
+    "role": "UCAV experimental",
+    "decade": "2020s",
+    "country": "Turquía",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/kizilelma-prototype.jpg"
+  }
+]

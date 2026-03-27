@@ -1,0 +1,68 @@
+[
+  {
+    "id": "boeing-757-200",
+    "name": "Boeing 757-200",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1980s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/boeing-757-200.jpg"
+  },
+  {
+    "id": "boeing-767-300er",
+    "name": "Boeing 767-300ER",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1980s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/boeing-767-300er.jpg"
+  },
+  {
+    "id": "md-80",
+    "name": "McDonnell Douglas MD-80",
+    "manufacturer": "McDonnell Douglas",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1980s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/md-80.jpg"
+  },
+  {
+    "id": "atr-72-600",
+    "name": "ATR 72-600",
+    "manufacturer": "ATR",
+    "domain": "civil",
+    "role": "turbohélice regional",
+    "decade": "1980s",
+    "country": "Francia / Italia",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "seats": 78,
+    "cruiseLabel": "510 km/h",
+    "rangeNm": 740,
+    "image": "images/atr-72-600.jpg"
+  },
+  {
+    "id": "airbus-a320",
+    "name": "Airbus A320",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1980s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "seats": 180,
+    "cruiseLabel": "Mach 0.82",
+    "rangeNm": 3350,
+    "image": "images/airbus-a320.jpg"
+  }
+]

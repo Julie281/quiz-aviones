@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mq25-t1",
+    "name": "Boeing MQ-25 T1",
+    "manufacturer": "Boeing",
+    "domain": "prototype",
+    "role": "demostrador no tripulado",
+    "decade": "2010s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/mq25-t1.jpg"
+  },
+  {
+    "id": "e-fan-x",
+    "name": "Airbus E-Fan X",
+    "manufacturer": "Airbus / Rolls-Royce / Siemens",
+    "domain": "prototype",
+    "role": "híbrido experimental",
+    "decade": "2010s",
+    "country": "Europa",
+    "propulsion": "híbrido",
+    "engines": 4,
+    "image": "images/e-fan-x.jpg"
+  },
+  {
+    "id": "xb1",
+    "name": "Boom XB-1",
+    "manufacturer": "Boom",
+    "domain": "prototype",
+    "role": "supersónico experimental",
+    "decade": "2010s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 3,
+    "image": "images/boom-xb1.jpg"
+  }
+]

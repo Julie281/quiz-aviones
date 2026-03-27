@@ -1,0 +1,98 @@
+[
+  {
+    "id": "f14",
+    "name": "Grumman F-14 Tomcat",
+    "manufacturer": "Grumman",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/f14.jpg"
+  },
+  {
+    "id": "f15",
+    "name": "McDonnell Douglas F-15 Eagle",
+    "manufacturer": "McDonnell Douglas",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/f15.jpg"
+  },
+  {
+    "id": "f16",
+    "name": "General Dynamics F-16 Fighting Falcon",
+    "manufacturer": "General Dynamics",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/f16.jpg"
+  },
+  {
+    "id": "a10",
+    "name": "Fairchild Republic A-10 Thunderbolt II",
+    "manufacturer": "Fairchild Republic",
+    "domain": "military",
+    "role": "ataque",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/a10.jpg"
+  },
+  {
+    "id": "fa18",
+    "name": "McDonnell Douglas F/A-18 Hornet",
+    "manufacturer": "McDonnell Douglas",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/fa18.jpg"
+  },
+  {
+    "id": "e3-sentry",
+    "name": "Boeing E-3 Sentry",
+    "manufacturer": "Boeing",
+    "domain": "military",
+    "role": "alerta temprana",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": "images/e3-sentry.jpg"
+  },
+  {
+    "id": "mig29",
+    "name": "Mikoyan MiG-29",
+    "manufacturer": "Mikoyan",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "URSS",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/mig29.jpg"
+  },
+  {
+    "id": "su27",
+    "name": "Sukhoi Su-27",
+    "manufacturer": "Sukhoi",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "URSS",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/su27.jpg"
+  }
+]

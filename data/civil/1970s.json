@@ -1,0 +1,14 @@
+[
+  {
+    "id": "airbus-a300",
+    "name": "Airbus A300",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1970s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/airbus-a300.jpg"
+  }
+]

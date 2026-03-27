@@ -1,0 +1,38 @@
+[
+  {
+    "id": "kc390",
+    "name": "Embraer KC-390 Millennium",
+    "manufacturer": "Embraer",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "2010s",
+    "country": "Brasil",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/kc390.jpg"
+  },
+  {
+    "id": "j20",
+    "name": "Chengdu J-20",
+    "manufacturer": "Chengdu",
+    "domain": "military",
+    "role": "caza",
+    "decade": "2010s",
+    "country": "China",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/j20.jpg"
+  },
+  {
+    "id": "su57",
+    "name": "Sukhoi Su-57",
+    "manufacturer": "Sukhoi",
+    "domain": "military",
+    "role": "caza",
+    "decade": "2010s",
+    "country": "Rusia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/su57.jpg"
+  }
+]
