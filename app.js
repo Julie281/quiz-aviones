@@ -557,8 +557,6 @@ function startQuiz() {
 }
 
 async function resolveAircraftImage(question) {
-  if (question.image) return question.image;
-
   const key = question.wikiTitle || question.aircraftName || question.prompt;
   if (!key) return null;
 
@@ -569,6 +567,7 @@ async function resolveAircraftImage(question) {
   try {
     const title = encodeURIComponent(question.wikiTitle || question.aircraftName);
     const res = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${title}`);
+
     if (!res.ok) throw new Error("Wiki image lookup failed");
 
     const data = await res.json();
@@ -584,33 +583,50 @@ async function resolveAircraftImage(question) {
 
 async function renderImage(question) {
   const requestToken = ++state.imageRequestToken;
+  let triedWikiFallback = false;
+
   els.planeImage.alt = question.prompt;
-
-  const src = await resolveAircraftImage(question);
-
-  if (requestToken !== state.imageRequestToken) return;
-
-  if (!src) {
-    els.imageWrap.classList.add("hidden");
-    return;
-  }
-
   els.imageWrap.classList.remove("hidden");
   els.imageFallback.classList.add("hidden");
   els.planeImage.classList.remove("hidden");
 
-  els.planeImage.onerror = () => {
-    els.planeImage.classList.add("hidden");
-    els.imageFallback.classList.remove("hidden");
-    els.imageFallback.textContent = "No se pudo cargar la imagen para este avión.";
-  };
+  const localSrc = question.image || null;
+
+  async function loadWikiFallback() {
+    if (triedWikiFallback) {
+      els.imageWrap.classList.add("hidden");
+      return;
+    }
+
+    triedWikiFallback = true;
+
+    const wikiSrc = await resolveAircraftImage(question);
+
+    if (requestToken !== state.imageRequestToken) return;
+
+    if (wikiSrc) {
+      els.planeImage.src = wikiSrc;
+    } else {
+      els.imageWrap.classList.add("hidden");
+    }
+  }
 
   els.planeImage.onload = () => {
+    if (requestToken !== state.imageRequestToken) return;
     els.planeImage.classList.remove("hidden");
     els.imageFallback.classList.add("hidden");
   };
 
-  els.planeImage.src = src;
+  els.planeImage.onerror = async () => {
+    if (requestToken !== state.imageRequestToken) return;
+    await loadWikiFallback();
+  };
+
+  if (localSrc) {
+    els.planeImage.src = localSrc;
+  } else {
+    await loadWikiFallback();
+  }
 }
 
 function renderQuestion() {
