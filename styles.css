@@ -68,7 +68,7 @@ body {
 }
 .question-card { display: grid; grid-template-columns: 360px 1fr; overflow: hidden; }
 .image-wrap { background: rgba(255,255,255,0.03); border-right: 1px solid var(--border); min-height: 360px; }
-.image-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.image-wrap img { width: 100%; height: 100%; object-fit: contain; display: block; }
 .image-fallback { display: grid; place-items: center; height: 100%; padding: 24px; color: var(--muted); text-align: center; white-space: pre-line; }
 .question-body { padding: 26px; }
 .tag {
