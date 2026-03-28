@@ -1,0 +1,80 @@
+[
+  {
+    "id": "boeing-777f",
+    "name": "Boeing 777F",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Boeing_777F"
+  },
+  {
+    "id": "airbus-a330-200f",
+    "name": "Airbus A330-200F",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2000s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Airbus_A330"
+  },
+  {
+    "id": "boeing-747-8f",
+    "name": "Boeing 747-8F",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Boeing_747-8"
+  },
+  {
+    "id": "airbus-a400m",
+    "name": "Airbus A400M Atlas",
+    "manufacturer": "Airbus",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "2000s",
+    "country": "Europa",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Airbus_A400M_Atlas"
+  },
+  {
+    "id": "c130j-super-hercules",
+    "name": "Lockheed Martin C-130J Super Hercules",
+    "manufacturer": "Lockheed Martin",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Lockheed_Martin_C-130J_Super_Hercules"
+  },
+  {
+    "id": "kawasaki-xc2",
+    "name": "Kawasaki XC-2",
+    "manufacturer": "Kawasaki",
+    "domain": "prototype",
+    "role": "prototipo de transporte",
+    "decade": "2000s",
+    "country": "Japón",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Kawasaki_C-2"
+  }
+]

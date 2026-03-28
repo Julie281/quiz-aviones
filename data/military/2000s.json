@@ -1,18 +1,5 @@
 [
   {
-    "id": "f35",
-    "name": "Lockheed Martin F-35 Lightning II",
-    "manufacturer": "Lockheed Martin",
-    "domain": "military",
-    "role": "caza",
-    "decade": "2000s",
-    "country": "Estados Unidos",
-    "propulsion": "turbofan",
-    "engines": 1,
-    "image": "images/f35.jpg",
-    "wikiTitle": "Lockheed_Martin_F-35_Lightning_II"
-  },
-  {
     "id": "a400m",
     "name": "Airbus A400M Atlas",
     "manufacturer": "Airbus",
@@ -26,6 +13,19 @@
     "wikiTitle": "Airbus_A400M_Atlas"
   },
   {
+    "id": "boeing-e7-wedgetail",
+    "name": "Boeing E-7 Wedgetail",
+    "manufacturer": "Boeing",
+    "domain": "military",
+    "role": "alerta temprana",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Boeing_737_AEW%26C"
+  },
+  {
     "id": "p8",
     "name": "Boeing P-8 Poseidon",
     "manufacturer": "Boeing",
@@ -37,5 +37,60 @@
     "engines": 2,
     "image": "images/p8.jpg",
     "wikiTitle": "Boeing_P-8_Poseidon"
+  },
+  {
+    "id": "f35",
+    "name": "Lockheed Martin F-35 Lightning II",
+    "manufacturer": "Lockheed Martin",
+    "domain": "military",
+    "role": "caza",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/f35.jpg",
+    "wikiTitle": "Lockheed_Martin_F-35_Lightning_II",
+    "isSupersonic": true
+  },
+  {
+    "id": "shaanxi-y9",
+    "name": "Shaanxi Y-9",
+    "manufacturer": "Shaanxi",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "2000s",
+    "country": "China",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Shaanxi_Y-9"
+  },
+  {
+    "id": "shenyang-j11b",
+    "name": "Shenyang J-11B",
+    "manufacturer": "Shenyang",
+    "domain": "military",
+    "role": "caza",
+    "decade": "2000s",
+    "country": "China",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Shenyang_J-11"
+  },
+  {
+    "id": "sukhoi-su35",
+    "name": "Sukhoi Su-35",
+    "manufacturer": "Sukhoi",
+    "domain": "military",
+    "role": "caza",
+    "decade": "2000s",
+    "country": "Rusia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Sukhoi_Su-35"
   }
 ]

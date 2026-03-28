@@ -13,17 +13,31 @@
     "wikiTitle": "Boeing_YC-14"
   },
   {
-    "id": "yc15",
-    "name": "McDonnell Douglas YC-15",
-    "manufacturer": "McDonnell Douglas",
+    "id": "mirage-4000",
+    "name": "Dassault Mirage 4000",
+    "manufacturer": "Dassault",
     "domain": "prototype",
-    "role": "transporte experimental",
+    "role": "caza experimental",
     "decade": "1970s",
-    "country": "Estados Unidos",
+    "country": "Francia",
     "propulsion": "turbofan",
-    "engines": 4,
-    "image": "images/yc15.jpg",
-    "wikiTitle": "McDonnell_Douglas_YC-15"
+    "engines": 2,
+    "image": "images/mirage-4000.jpg",
+    "wikiTitle": "Dassault_Mirage_4000"
+  },
+  {
+    "id": "dassault-mirage-g8",
+    "name": "Dassault Mirage G8",
+    "manufacturer": "Dassault",
+    "domain": "prototype",
+    "role": "prototipo militar",
+    "decade": "1970s",
+    "country": "Francia",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Dassault_Mirage_G8"
   },
   {
     "id": "have-blue",
@@ -39,16 +53,16 @@
     "wikiTitle": "Lockheed_Have_Blue"
   },
   {
-    "id": "mirage-4000",
-    "name": "Dassault Mirage 4000",
-    "manufacturer": "Dassault",
+    "id": "yc15",
+    "name": "McDonnell Douglas YC-15",
+    "manufacturer": "McDonnell Douglas",
     "domain": "prototype",
-    "role": "caza experimental",
+    "role": "transporte experimental",
     "decade": "1970s",
-    "country": "Francia",
+    "country": "Estados Unidos",
     "propulsion": "turbofan",
-    "engines": 2,
-    "image": "images/mirage-4000.jpg",
-    "wikiTitle": "Dassault_Mirage_4000"
+    "engines": 4,
+    "image": "images/yc15.jpg",
+    "wikiTitle": "McDonnell_Douglas_YC-15"
   }
 ]

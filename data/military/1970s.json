@@ -1,42 +1,44 @@
 [
   {
-    "id": "f14",
-    "name": "Grumman F-14 Tomcat",
-    "manufacturer": "Grumman",
+    "id": "e3-sentry",
+    "name": "Boeing E-3 Sentry",
+    "manufacturer": "Boeing",
     "domain": "military",
-    "role": "caza",
+    "role": "alerta temprana",
     "decade": "1970s",
     "country": "Estados Unidos",
     "propulsion": "turbofan",
-    "engines": 2,
-    "image": "images/f14.jpg",
-    "wikiTitle": "Grumman_F-14_Tomcat"
+    "engines": 4,
+    "image": "images/e3-sentry.jpg",
+    "wikiTitle": "Boeing_E-3_Sentry"
   },
   {
-    "id": "f15",
-    "name": "McDonnell Douglas F-15 Eagle",
-    "manufacturer": "McDonnell Douglas",
+    "id": "dassault-mirage-2000",
+    "name": "Dassault Mirage 2000",
+    "manufacturer": "Dassault",
     "domain": "military",
     "role": "caza",
     "decade": "1970s",
-    "country": "Estados Unidos",
-    "propulsion": "turbofan",
-    "engines": 2,
-    "image": "images/f15.jpg",
-    "wikiTitle": "McDonnell_Douglas_F-15_Eagle"
-  },
-  {
-    "id": "f16",
-    "name": "General Dynamics F-16 Fighting Falcon",
-    "manufacturer": "General Dynamics",
-    "domain": "military",
-    "role": "caza",
-    "decade": "1970s",
-    "country": "Estados Unidos",
+    "country": "Francia",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/f16.jpg",
-    "wikiTitle": "General_Dynamics_F-16_Fighting_Falcon"
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Dassault_Mirage_2000"
+  },
+  {
+    "id": "dassault-mirage-f1",
+    "name": "Dassault Mirage F1",
+    "manufacturer": "Dassault",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "Francia",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Dassault_Mirage_F1"
   },
   {
     "id": "a10",
@@ -52,6 +54,48 @@
     "wikiTitle": "Fairchild_Republic_A-10_Thunderbolt_II"
   },
   {
+    "id": "f16",
+    "name": "General Dynamics F-16 Fighting Falcon",
+    "manufacturer": "General Dynamics",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "image": "images/f16.jpg",
+    "wikiTitle": "General_Dynamics_F-16_Fighting_Falcon",
+    "isSupersonic": true
+  },
+  {
+    "id": "f14",
+    "name": "Grumman F-14 Tomcat",
+    "manufacturer": "Grumman",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/f14.jpg",
+    "wikiTitle": "Grumman_F-14_Tomcat",
+    "isSupersonic": true
+  },
+  {
+    "id": "f15",
+    "name": "McDonnell Douglas F-15 Eagle",
+    "manufacturer": "McDonnell Douglas",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1970s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/f15.jpg",
+    "wikiTitle": "McDonnell_Douglas_F-15_Eagle",
+    "isSupersonic": true
+  },
+  {
     "id": "fa18",
     "name": "McDonnell Douglas F/A-18 Hornet",
     "manufacturer": "McDonnell Douglas",
@@ -62,20 +106,8 @@
     "propulsion": "turbofan",
     "engines": 2,
     "image": "images/fa18.jpg",
-    "wikiTitle": "McDonnell_Douglas_F/A-18_Hornet"
-  },
-  {
-    "id": "e3-sentry",
-    "name": "Boeing E-3 Sentry",
-    "manufacturer": "Boeing",
-    "domain": "military",
-    "role": "alerta temprana",
-    "decade": "1970s",
-    "country": "Estados Unidos",
-    "propulsion": "turbofan",
-    "engines": 4,
-    "image": "images/e3-sentry.jpg",
-    "wikiTitle": "Boeing_E-3_Sentry"
+    "wikiTitle": "McDonnell_Douglas_F/A-18_Hornet",
+    "isSupersonic": true
   },
   {
     "id": "mig29",
@@ -88,7 +120,63 @@
     "propulsion": "turbofan",
     "engines": 2,
     "image": "images/mig29.jpg",
-    "wikiTitle": "Mikoyan_MiG-29"
+    "wikiTitle": "Mikoyan_MiG-29",
+    "isSupersonic": true
+  },
+  {
+    "id": "mig31",
+    "name": "Mikoyan MiG-31",
+    "manufacturer": "Mikoyan",
+    "domain": "military",
+    "role": "interceptor",
+    "decade": "1970s",
+    "country": "URSS",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Mikoyan_MiG-31"
+  },
+  {
+    "id": "shenyang-j8",
+    "name": "Shenyang J-8",
+    "manufacturer": "Shenyang",
+    "domain": "military",
+    "role": "interceptor",
+    "decade": "1970s",
+    "country": "China",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Shenyang_J-8"
+  },
+  {
+    "id": "sukhoi-su24",
+    "name": "Sukhoi Su-24",
+    "manufacturer": "Sukhoi",
+    "domain": "military",
+    "role": "bombardero táctico",
+    "decade": "1970s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Sukhoi_Su-24"
+  },
+  {
+    "id": "sukhoi-su25",
+    "name": "Sukhoi Su-25",
+    "manufacturer": "Sukhoi",
+    "domain": "military",
+    "role": "ataque",
+    "decade": "1970s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Sukhoi_Su-25"
   },
   {
     "id": "su27",
@@ -101,6 +189,35 @@
     "propulsion": "turbofan",
     "engines": 2,
     "image": "images/su27.jpg",
-    "wikiTitle": "Sukhoi_Su-27"
+    "wikiTitle": "Sukhoi_Su-27",
+    "isSupersonic": true
+  },
+  {
+    "id": "tupolev-tu22m",
+    "name": "Tupolev Tu-22M",
+    "manufacturer": "Tupolev",
+    "domain": "military",
+    "role": "bombardero",
+    "decade": "1970s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Tupolev_Tu-22M"
+  },
+  {
+    "id": "nanchang-jh7",
+    "name": "Xian JH-7",
+    "manufacturer": "Xian",
+    "domain": "military",
+    "role": "ataque",
+    "decade": "1970s",
+    "country": "China",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Xi%27an_JH-7"
   }
 ]

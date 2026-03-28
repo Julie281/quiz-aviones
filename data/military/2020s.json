@@ -10,6 +10,7 @@
     "propulsion": "turbofan",
     "engines": 2,
     "image": "images/b21-raider.jpg",
-    "wikiTitle": "Northrop_Grumman_B-21_Raider"
+    "wikiTitle": "Northrop_Grumman_B-21_Raider",
+    "isSupersonic": false
   }
 ]

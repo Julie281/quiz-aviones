@@ -1,5 +1,32 @@
 [
   {
+    "id": "aerion-as2",
+    "name": "Aerion AS2",
+    "manufacturer": "Aerion",
+    "domain": "prototype",
+    "role": "prototipo supersónico civil",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 3,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Aerion_AS2"
+  },
+  {
+    "id": "boeing-sonic-cruiser",
+    "name": "Boeing Sonic Cruiser",
+    "manufacturer": "Boeing",
+    "domain": "prototype",
+    "role": "prototipo civil",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Boeing_Sonic_Cruiser"
+  },
+  {
     "id": "x45",
     "name": "Boeing X-45",
     "manufacturer": "Boeing",
@@ -13,19 +40,6 @@
     "wikiTitle": "Boeing_X-45"
   },
   {
-    "id": "x47b",
-    "name": "Northrop Grumman X-47B",
-    "manufacturer": "Northrop Grumman",
-    "domain": "prototype",
-    "role": "UCAV experimental",
-    "decade": "2000s",
-    "country": "Estados Unidos",
-    "propulsion": "turborreactor",
-    "engines": 1,
-    "image": "images/x47b.jpg",
-    "wikiTitle": "Northrop_Grumman_X-47B"
-  },
-  {
     "id": "x48",
     "name": "Boeing X-48",
     "manufacturer": "Boeing / NASA",
@@ -37,5 +51,18 @@
     "engines": 3,
     "image": "images/x48.jpg",
     "wikiTitle": "Boeing_X-48"
+  },
+  {
+    "id": "x47b",
+    "name": "Northrop Grumman X-47B",
+    "manufacturer": "Northrop Grumman",
+    "domain": "prototype",
+    "role": "UCAV experimental",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/x47b.jpg",
+    "wikiTitle": "Northrop_Grumman_X-47B"
   }
 ]

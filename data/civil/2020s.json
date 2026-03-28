@@ -13,5 +13,45 @@
     "rangeNm": 4700,
     "image": "images/airbus-a321xlr.jpg",
     "wikiTitle": "Airbus_A321XLR"
+  },
+  {
+    "id": "bombardier-global-8000",
+    "name": "Bombardier Global 8000",
+    "manufacturer": "Bombardier",
+    "domain": "civil",
+    "role": "business jet",
+    "decade": "2020s",
+    "country": "Canadá",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": false,
+    "image": null,
+    "wikiTitle": "Bombardier_Global_8000"
+  },
+  {
+    "id": "dassault-falcon-10x",
+    "name": "Dassault Falcon 10X",
+    "manufacturer": "Dassault",
+    "domain": "civil",
+    "role": "business jet",
+    "decade": "2020s",
+    "country": "Francia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Dassault_Falcon_10X"
+  },
+  {
+    "id": "dassault-falcon-6x",
+    "name": "Dassault Falcon 6X",
+    "manufacturer": "Dassault",
+    "domain": "civil",
+    "role": "business jet",
+    "decade": "2020s",
+    "country": "Francia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Dassault_Falcon_6X"
   }
 ]

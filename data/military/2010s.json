@@ -1,5 +1,19 @@
 [
   {
+    "id": "j20",
+    "name": "Chengdu J-20",
+    "manufacturer": "Chengdu",
+    "domain": "military",
+    "role": "caza",
+    "decade": "2010s",
+    "country": "China",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/j20.jpg",
+    "wikiTitle": "Chengdu_J-20",
+    "isSupersonic": true
+  },
+  {
     "id": "kc390",
     "name": "Embraer KC-390 Millennium",
     "manufacturer": "Embraer",
@@ -13,17 +27,31 @@
     "wikiTitle": "Embraer_C-390_Millennium"
   },
   {
-    "id": "j20",
-    "name": "Chengdu J-20",
-    "manufacturer": "Chengdu",
+    "id": "shaanxi-kj500",
+    "name": "Shaanxi KJ-500",
+    "manufacturer": "Shaanxi",
+    "domain": "military",
+    "role": "alerta temprana",
+    "decade": "2010s",
+    "country": "China",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Shaanxi_KJ-500"
+  },
+  {
+    "id": "shenyang-j16",
+    "name": "Shenyang J-16",
+    "manufacturer": "Shenyang",
     "domain": "military",
     "role": "caza",
     "decade": "2010s",
     "country": "China",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/j20.jpg",
-    "wikiTitle": "Chengdu_J-20"
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Shenyang_J-16"
   },
   {
     "id": "su57",
@@ -36,6 +64,20 @@
     "propulsion": "turbofan",
     "engines": 2,
     "image": "images/su57.jpg",
-    "wikiTitle": "Sukhoi_Su-57"
+    "wikiTitle": "Sukhoi_Su-57",
+    "isSupersonic": true
+  },
+  {
+    "id": "xian-y20",
+    "name": "Xian Y-20",
+    "manufacturer": "Xian",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "2010s",
+    "country": "China",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Xi%27an_Y-20"
   }
 ]

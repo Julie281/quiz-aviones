@@ -173,8 +173,12 @@ async function loadExternalDatabase() {
   if (!manifestRes.ok) throw new Error("No se pudo cargar data/manifest.json");
 
   const manifest = await manifestRes.json();
-  const allPaths = [...manifest.civil, ...manifest.military, ...manifest.prototypes];
-
+  const allPaths = [
+  ...(manifest.civil || []),
+  ...(manifest.military || []),
+  ...(manifest.prototypes || []),
+  ...(manifest.cargo || [])
+];
   const datasets = await Promise.all(
     allPaths.map(async (path) => {
       const res = await fetch(path);

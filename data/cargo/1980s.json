@@ -1,0 +1,93 @@
+[
+  {
+    "id": "airbus-a300-600f",
+    "name": "Airbus A300-600F",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "1980s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Airbus_A300"
+  },
+  {
+    "id": "saab-340af",
+    "name": "Saab 340AF",
+    "manufacturer": "Saab",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "1980s",
+    "country": "Suecia",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Saab_340"
+  },
+  {
+    "id": "shorts-360-cargo",
+    "name": "Shorts 360 Cargo",
+    "manufacturer": "Short Brothers",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "1980s",
+    "country": "Reino Unido",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Short_360"
+  },
+  {
+    "id": "antonov-an225",
+    "name": "Antonov An-225 Mriya",
+    "manufacturer": "Antonov",
+    "domain": "civil",
+    "role": "supertransporte",
+    "decade": "1980s",
+    "country": "URSS / Ucrania",
+    "propulsion": "turbofan",
+    "engines": 6,
+    "image": null,
+    "wikiTitle": "Antonov_An-225_Mriya"
+  },
+  {
+    "id": "antonov-an72",
+    "name": "Antonov An-72",
+    "manufacturer": "Antonov",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1980s",
+    "country": "URSS",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Antonov_An-72"
+  },
+  {
+    "id": "shaanxi-y8",
+    "name": "Shaanxi Y-8",
+    "manufacturer": "Shaanxi",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1980s",
+    "country": "China",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Shaanxi_Y-8"
+  },
+  {
+    "id": "cn235",
+    "name": "CASA/IPTN CN-235",
+    "manufacturer": "CASA / IPTN",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1980s",
+    "country": "España / Indonesia",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "CASA/IPTN_CN-235"
+  }
+]

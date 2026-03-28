@@ -1,0 +1,93 @@
+[
+  {
+    "id": "fairchild-c123-provider",
+    "name": "Fairchild C-123 Provider",
+    "manufacturer": "Fairchild",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Fairchild_C-123_Provider"
+  },
+  {
+    "id": "lockheed-c130-hercules",
+    "name": "Lockheed C-130 Hercules",
+    "manufacturer": "Lockheed",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Lockheed_C-130_Hercules"
+  },
+  {
+    "id": "antonov-an8",
+    "name": "Antonov An-8",
+    "manufacturer": "Antonov",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1950s",
+    "country": "URSS",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Antonov_An-8"
+  },
+  {
+    "id": "antonov-an12",
+    "name": "Antonov An-12",
+    "manufacturer": "Antonov",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1950s",
+    "country": "URSS",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Antonov_An-12"
+  },
+  {
+    "id": "canadair-cl44d4",
+    "name": "Canadair CL-44D4",
+    "manufacturer": "Canadair",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "1950s",
+    "country": "Canadá",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Canadair_CL-44"
+  },
+  {
+    "id": "aw-argosy",
+    "name": "Armstrong Whitworth AW.660 Argosy",
+    "manufacturer": "Armstrong Whitworth",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "1950s",
+    "country": "Reino Unido",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Armstrong_Whitworth_AW.660_Argosy"
+  },
+  {
+    "id": "fairchild-xc120-packplane",
+    "name": "Fairchild XC-120 Packplane",
+    "manufacturer": "Fairchild",
+    "domain": "prototype",
+    "role": "prototipo de transporte",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Fairchild_XC-120_Packplane"
+  }
+]

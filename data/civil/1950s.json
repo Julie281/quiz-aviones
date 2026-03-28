@@ -1,18 +1,5 @@
 [
   {
-    "id": "vickers-viscount",
-    "name": "Vickers Viscount",
-    "manufacturer": "Vickers",
-    "domain": "civil",
-    "role": "turbohélice regional",
-    "decade": "1950s",
-    "country": "Reino Unido",
-    "propulsion": "turbohélice",
-    "engines": 4,
-    "image": "images/vickers-viscount.jpg",
-    "wikiTitle": "Vickers_Viscount"
-  },
-  {
     "id": "boeing-707",
     "name": "Boeing 707",
     "manufacturer": "Boeing",
@@ -26,6 +13,45 @@
     "wikiTitle": "Boeing_707"
   },
   {
+    "id": "boeing-720",
+    "name": "Boeing 720",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Boeing_720"
+  },
+  {
+    "id": "canadair-cl44",
+    "name": "Canadair CL-44",
+    "manufacturer": "Canadair",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "1950s",
+    "country": "Canadá",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Canadair_CL-44"
+  },
+  {
+    "id": "douglas-dc7",
+    "name": "Douglas DC-7",
+    "manufacturer": "Douglas",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1950s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Douglas_DC-7"
+  },
+  {
     "id": "douglas-dc8",
     "name": "Douglas DC-8",
     "manufacturer": "Douglas",
@@ -37,5 +63,44 @@
     "engines": 4,
     "image": "images/douglas-dc8.jpg",
     "wikiTitle": "Douglas_DC-8"
+  },
+  {
+    "id": "ilyushin-il18",
+    "name": "Ilyushin Il-18",
+    "manufacturer": "Ilyushin",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1950s",
+    "country": "URSS",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Ilyushin_Il-18"
+  },
+  {
+    "id": "tupolev-tu104",
+    "name": "Tupolev Tu-104",
+    "manufacturer": "Tupolev",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1950s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Tupolev_Tu-104"
+  },
+  {
+    "id": "vickers-viscount",
+    "name": "Vickers Viscount",
+    "manufacturer": "Vickers",
+    "domain": "civil",
+    "role": "turbohélice regional",
+    "decade": "1950s",
+    "country": "Reino Unido",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": "images/vickers-viscount.jpg",
+    "wikiTitle": "Vickers_Viscount"
   }
 ]

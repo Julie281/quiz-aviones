@@ -1,35 +1,45 @@
 {
   "civil": [
-    "data/civil/1940s.json",
-    "data/civil/1950s.json",
-    "data/civil/1960s.json",
-    "data/civil/1970s.json",
-    "data/civil/1980s.json",
-    "data/civil/1990s.json",
-    "data/civil/2000s.json",
-    "data/civil/2010s.json",
-    "data/civil/2020s.json"
+    "./data/civil/1940s.json",
+    "./data/civil/1950s.json",
+    "./data/civil/1960s.json",
+    "./data/civil/1970s.json",
+    "./data/civil/1980s.json",
+    "./data/civil/1990s.json",
+    "./data/civil/2000s.json",
+    "./data/civil/2010s.json",
+    "./data/civil/2020s.json"
   ],
   "military": [
-    "data/military/1940s.json",
-    "data/military/1950s.json",
-    "data/military/1960s.json",
-    "data/military/1970s.json",
-    "data/military/1980s.json",
-    "data/military/1990s.json",
-    "data/military/2000s.json",
-    "data/military/2010s.json",
-    "data/military/2020s.json"
+    "./data/military/1940s.json",
+    "./data/military/1950s.json",
+    "./data/military/1960s.json",
+    "./data/military/1970s.json",
+    "./data/military/1980s.json",
+    "./data/military/1990s.json",
+    "./data/military/2000s.json",
+    "./data/military/2010s.json",
+    "./data/military/2020s.json"
   ],
   "prototypes": [
-    "data/prototypes/1940s.json",
-    "data/prototypes/1950s.json",
-    "data/prototypes/1960s.json",
-    "data/prototypes/1970s.json",
-    "data/prototypes/1980s.json",
-    "data/prototypes/1990s.json",
-    "data/prototypes/2000s.json",
-    "data/prototypes/2010s.json",
-    "data/prototypes/2020s.json"
+    "./data/prototypes/1940s.json",
+    "./data/prototypes/1950s.json",
+    "./data/prototypes/1960s.json",
+    "./data/prototypes/1970s.json",
+    "./data/prototypes/1980s.json",
+    "./data/prototypes/1990s.json",
+    "./data/prototypes/2000s.json",
+    "./data/prototypes/2010s.json",
+    "./data/prototypes/2020s.json"
+  ],
+  "cargo": [
+    "./data/cargo/1950s.json",
+    "./data/cargo/1960s.json",
+    "./data/cargo/1970s.json",
+    "./data/cargo/1980s.json",
+    "./data/cargo/1990s.json",
+    "./data/cargo/2000s.json",
+    "./data/cargo/2010s.json",
+    "./data/cargo/2020s.json"
   ]
 }

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "boeing-777-8f",
+    "name": "Boeing 777-8F",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2020s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Boeing_777X"
+  },
+  {
+    "id": "airbus-a350f",
+    "name": "Airbus A350F",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2020s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Airbus_A350F"
+  },
+  {
+    "id": "atr72-600f",
+    "name": "ATR 72-600F",
+    "manufacturer": "ATR",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2020s",
+    "country": "Francia / Italia",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "ATR_72"
+  },
+  {
+    "id": "airbus-a321p2f",
+    "name": "Airbus A321P2F",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2020s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Airbus_A321"
+  },
+  {
+    "id": "embraer-e190f",
+    "name": "Embraer E190F",
+    "manufacturer": "Embraer",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2020s",
+    "country": "Brasil",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Embraer_E-Jet_E2_family"
+  },
+  {
+    "id": "embraer-e195f",
+    "name": "Embraer E195F",
+    "manufacturer": "Embraer",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2020s",
+    "country": "Brasil",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Embraer_E-Jet_E2_family"
+  },
+  {
+    "id": "cessna-skycourier-freighter",
+    "name": "Cessna SkyCourier Freighter",
+    "manufacturer": "Cessna",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "2020s",
+    "country": "Estados Unidos",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Cessna_408_SkyCourier"
+  }
+]

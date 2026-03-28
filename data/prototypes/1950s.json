@@ -1,5 +1,18 @@
 [
   {
+    "id": "cf105-arrow",
+    "name": "Avro Canada CF-105 Arrow",
+    "manufacturer": "Avro Canada",
+    "domain": "prototype",
+    "role": "interceptor experimental",
+    "decade": "1950s",
+    "country": "Canadá",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/cf105-arrow.jpg",
+    "wikiTitle": "Avro_Canada_CF-105_Arrow"
+  },
+  {
     "id": "bell-x2",
     "name": "Bell X-2",
     "manufacturer": "Bell",
@@ -10,7 +23,8 @@
     "propulsion": "cohete",
     "engines": 1,
     "image": "images/bell-x2.jpg",
-    "wikiTitle": "Bell_X-2"
+    "wikiTitle": "Bell_X-2",
+    "isSupersonic": true
   },
   {
     "id": "boeing-dash80",
@@ -24,19 +38,6 @@
     "engines": 4,
     "image": "images/boeing-dash80.jpg",
     "wikiTitle": "Boeing_Dash_80"
-  },
-  {
-    "id": "cf105-arrow",
-    "name": "Avro Canada CF-105 Arrow",
-    "manufacturer": "Avro Canada",
-    "domain": "prototype",
-    "role": "interceptor experimental",
-    "decade": "1950s",
-    "country": "Canadá",
-    "propulsion": "turborreactor",
-    "engines": 2,
-    "image": "images/cf105-arrow.jpg",
-    "wikiTitle": "Avro_Canada_CF-105_Arrow"
   },
   {
     "id": "x15",

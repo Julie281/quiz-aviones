@@ -1,16 +1,17 @@
 [
   {
-    "id": "x59",
-    "name": "NASA X-59 QueSST",
-    "manufacturer": "Lockheed Martin / NASA",
+    "id": "kizilelma-prototype",
+    "name": "Baykar Kızılelma Prototype",
+    "manufacturer": "Baykar",
     "domain": "prototype",
-    "role": "supersónico experimental",
+    "role": "UCAV experimental",
     "decade": "2020s",
-    "country": "Estados Unidos",
+    "country": "Turquía",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/x59.jpg",
-    "wikiTitle": "Lockheed_Martin_X-59_Quesst"
+    "image": "images/kizilelma-prototype.jpg",
+    "wikiTitle": "Bayraktar_Kızılelma",
+    "isSupersonic": true
   },
   {
     "id": "x66",
@@ -26,16 +27,30 @@
     "wikiTitle": "Boeing_X-66"
   },
   {
-    "id": "kizilelma-prototype",
-    "name": "Baykar Kızılelma Prototype",
-    "manufacturer": "Baykar",
+    "id": "comac-c929",
+    "name": "COMAC C929",
+    "manufacturer": "COMAC",
     "domain": "prototype",
-    "role": "UCAV experimental",
+    "role": "prototipo civil",
     "decade": "2020s",
-    "country": "Turquía",
+    "country": "China",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "CRAIC_CR929"
+  },
+  {
+    "id": "x59",
+    "name": "NASA X-59 QueSST",
+    "manufacturer": "Lockheed Martin / NASA",
+    "domain": "prototype",
+    "role": "supersónico experimental",
+    "decade": "2020s",
+    "country": "Estados Unidos",
     "propulsion": "turbofan",
     "engines": 1,
-    "image": "images/kizilelma-prototype.jpg",
-    "wikiTitle": "Bayraktar_Kızılelma"
+    "image": "images/x59.jpg",
+    "wikiTitle": "Lockheed_Martin_X-59_Quesst",
+    "isSupersonic": true
   }
 ]

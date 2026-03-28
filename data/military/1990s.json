@@ -1,5 +1,32 @@
 [
   {
+    "id": "c17",
+    "name": "Boeing C-17 Globemaster III",
+    "manufacturer": "Boeing",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": "images/c17.jpg",
+    "wikiTitle": "Boeing_C-17_Globemaster_III"
+  },
+  {
+    "id": "chengdu-j10",
+    "name": "Chengdu J-10",
+    "manufacturer": "Chengdu",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1990s",
+    "country": "China",
+    "propulsion": "turbofan",
+    "engines": 1,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Chengdu_J-10"
+  },
+  {
     "id": "typhoon",
     "name": "Eurofighter Typhoon",
     "manufacturer": "Eurofighter",
@@ -10,7 +37,8 @@
     "propulsion": "turbofan",
     "engines": 2,
     "image": "images/typhoon.jpg",
-    "wikiTitle": "Eurofighter_Typhoon"
+    "wikiTitle": "Eurofighter_Typhoon",
+    "isSupersonic": true
   },
   {
     "id": "f22",
@@ -23,19 +51,48 @@
     "propulsion": "turbofan",
     "engines": 2,
     "image": "images/f22.jpg",
-    "wikiTitle": "Lockheed_Martin_F-22_Raptor"
+    "wikiTitle": "Lockheed_Martin_F-22_Raptor",
+    "isSupersonic": true
   },
   {
-    "id": "c17",
-    "name": "Boeing C-17 Globemaster III",
-    "manufacturer": "Boeing",
+    "id": "sukhoi-su33",
+    "name": "Sukhoi Su-33",
+    "manufacturer": "Sukhoi",
     "domain": "military",
-    "role": "transporte militar",
+    "role": "caza",
     "decade": "1990s",
-    "country": "Estados Unidos",
+    "country": "Rusia",
     "propulsion": "turbofan",
-    "engines": 4,
-    "image": "images/c17.jpg",
-    "wikiTitle": "Boeing_C-17_Globemaster_III"
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Sukhoi_Su-33"
+  },
+  {
+    "id": "sukhoi-su34",
+    "name": "Sukhoi Su-34",
+    "manufacturer": "Sukhoi",
+    "domain": "military",
+    "role": "bombardero táctico",
+    "decade": "1990s",
+    "country": "Rusia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Sukhoi_Su-34"
+  },
+  {
+    "id": "yakovlev-yak130",
+    "name": "Yakovlev Yak-130",
+    "manufacturer": "Yakovlev",
+    "domain": "military",
+    "role": "entrenador",
+    "decade": "1990s",
+    "country": "Rusia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Yakovlev_Yak-130"
   }
 ]

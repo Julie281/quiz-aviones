@@ -1,18 +1,5 @@
 [
   {
-    "id": "mq25-t1",
-    "name": "Boeing MQ-25 T1",
-    "manufacturer": "Boeing",
-    "domain": "prototype",
-    "role": "demostrador no tripulado",
-    "decade": "2010s",
-    "country": "Estados Unidos",
-    "propulsion": "turborreactor",
-    "engines": 1,
-    "image": "images/mq25-t1.jpg",
-    "wikiTitle": "Boeing_MQ-25_Stingray"
-  },
-  {
     "id": "e-fan-x",
     "name": "Airbus E-Fan X",
     "manufacturer": "Airbus / Rolls-Royce / Siemens",
@@ -26,6 +13,20 @@
     "wikiTitle": "Airbus_E-Fan_X"
   },
   {
+    "id": "mq25-t1",
+    "name": "Boeing MQ-25 T1",
+    "manufacturer": "Boeing",
+    "domain": "prototype",
+    "role": "demostrador no tripulado",
+    "decade": "2010s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "image": "images/mq25-t1.jpg",
+    "wikiTitle": "Boeing_MQ-25_Stingray",
+    "isSupersonic": false
+  },
+  {
     "id": "xb1",
     "name": "Boom XB-1",
     "manufacturer": "Boom",
@@ -36,6 +37,35 @@
     "propulsion": "turborreactor",
     "engines": 3,
     "image": "images/boom-xb1.jpg",
-    "wikiTitle": "Boom_XB-1"
+    "wikiTitle": "Boom_XB-1",
+    "isSupersonic": true
+  },
+  {
+    "id": "boom-overture",
+    "name": "Boom Overture",
+    "manufacturer": "Boom Supersonic",
+    "domain": "prototype",
+    "role": "prototipo supersónico civil",
+    "decade": "2010s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Boom_Overture"
+  },
+  {
+    "id": "spike-s512",
+    "name": "Spike S-512",
+    "manufacturer": "Spike Aerospace",
+    "domain": "prototype",
+    "role": "prototipo supersónico civil",
+    "decade": "2010s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Spike_S-512"
   }
 ]

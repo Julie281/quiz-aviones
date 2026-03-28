@@ -1,5 +1,57 @@
 [
   {
+    "id": "boeing-377-stratocruiser",
+    "name": "Boeing 377 Stratocruiser",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Boeing_377_Stratocruiser"
+  },
+  {
+    "id": "canadair-north-star",
+    "name": "Canadair North Star",
+    "manufacturer": "Canadair",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1940s",
+    "country": "Canadá",
+    "propulsion": "hélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Canadair_North_Star"
+  },
+  {
+    "id": "douglas-dc4",
+    "name": "Douglas DC-4",
+    "manufacturer": "Douglas",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Douglas_DC-4"
+  },
+  {
+    "id": "douglas-dc6",
+    "name": "Douglas DC-6",
+    "manufacturer": "Douglas",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1940s",
+    "country": "Estados Unidos",
+    "propulsion": "hélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Douglas_DC-6"
+  },
+  {
     "id": "lockheed-constellation",
     "name": "Lockheed Constellation",
     "manufacturer": "Lockheed",

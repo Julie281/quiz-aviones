@@ -1,0 +1,80 @@
+[
+  {
+    "id": "md11f",
+    "name": "McDonnell Douglas MD-11F",
+    "manufacturer": "McDonnell Douglas",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 3,
+    "image": null,
+    "wikiTitle": "McDonnell_Douglas_MD-11"
+  },
+  {
+    "id": "airbus-beluga-st",
+    "name": "Airbus A300-600ST Beluga",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "supertransporte",
+    "decade": "1990s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Airbus_Beluga"
+  },
+  {
+    "id": "antonov-an74tk200",
+    "name": "Antonov An-74TK-200",
+    "manufacturer": "Antonov",
+    "domain": "civil",
+    "role": "carguero",
+    "decade": "1990s",
+    "country": "Ucrania",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Antonov_An-74"
+  },
+  {
+    "id": "boeing-c17",
+    "name": "Boeing C-17 Globemaster III",
+    "manufacturer": "Boeing",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Boeing_C-17_Globemaster_III"
+  },
+  {
+    "id": "c27j-spartan",
+    "name": "Alenia C-27J Spartan",
+    "manufacturer": "Alenia",
+    "domain": "military",
+    "role": "transporte militar",
+    "decade": "1990s",
+    "country": "Italia",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Alenia_C-27J_Spartan"
+  },
+  {
+    "id": "antonov-an70",
+    "name": "Antonov An-70",
+    "manufacturer": "Antonov",
+    "domain": "prototype",
+    "role": "prototipo de transporte",
+    "decade": "1990s",
+    "country": "Ucrania",
+    "propulsion": "propfan",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Antonov_An-70"
+  }
+]

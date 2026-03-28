@@ -1,5 +1,31 @@
 [
   {
+    "id": "airbus-a318",
+    "name": "Airbus A318",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "2000s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Airbus_A320_family"
+  },
+  {
+    "id": "airbus-a340-600",
+    "name": "Airbus A340-600",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "2000s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Airbus_A340"
+  },
+  {
     "id": "airbus-a380-800",
     "name": "Airbus A380-800",
     "manufacturer": "Airbus",
@@ -12,6 +38,72 @@
     "seats": 853,
     "image": "images/airbus-a380-800.jpg",
     "wikiTitle": "Airbus_A380"
+  },
+  {
+    "id": "boeing-777-300er",
+    "name": "Boeing 777-300ER",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "2000s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Boeing_777",
+    "isSupersonic": false
+  },
+  {
+    "id": "bombardier-challenger-300",
+    "name": "Bombardier Challenger 300",
+    "manufacturer": "Bombardier",
+    "domain": "civil",
+    "role": "business jet",
+    "decade": "2000s",
+    "country": "Canadá",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Bombardier_Challenger_300"
+  },
+  {
+    "id": "bombardier-global-5000",
+    "name": "Bombardier Global 5000",
+    "manufacturer": "Bombardier",
+    "domain": "civil",
+    "role": "business jet",
+    "decade": "2000s",
+    "country": "Canadá",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Bombardier_Global_5000"
+  },
+  {
+    "id": "comac-arj21",
+    "name": "COMAC ARJ21 (C909)",
+    "manufacturer": "COMAC",
+    "domain": "civil",
+    "role": "reactor regional",
+    "decade": "2000s",
+    "country": "China",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Comac_ARJ21"
+  },
+  {
+    "id": "dassault-falcon-7x",
+    "name": "Dassault Falcon 7X",
+    "manufacturer": "Dassault",
+    "domain": "civil",
+    "role": "business jet",
+    "decade": "2000s",
+    "country": "Francia",
+    "propulsion": "turbofan",
+    "engines": 3,
+    "image": null,
+    "wikiTitle": "Dassault_Falcon_7X"
   },
   {
     "id": "embraer-e190",
@@ -27,5 +119,18 @@
     "cruiseLabel": "Mach 0.82",
     "image": "images/embraer-e190.jpg",
     "wikiTitle": "Embraer_E-Jet_family"
+  },
+  {
+    "id": "sukhoi-superjet-100",
+    "name": "Sukhoi Superjet 100",
+    "manufacturer": "Sukhoi",
+    "domain": "civil",
+    "role": "reactor regional",
+    "decade": "2000s",
+    "country": "Rusia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Sukhoi_Superjet_100"
   }
 ]

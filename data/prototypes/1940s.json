@@ -10,7 +10,8 @@
     "propulsion": "cohete",
     "engines": 1,
     "image": "images/bell-x1.jpg",
-    "wikiTitle": "Bell_X-1"
+    "wikiTitle": "Bell_X-1",
+    "isSupersonic": true
   },
   {
     "id": "northrop-xb35",

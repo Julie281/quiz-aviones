@@ -1,18 +1,5 @@
 [
   {
-    "id": "xb70",
-    "name": "North American XB-70 Valkyrie",
-    "manufacturer": "North American Aviation",
-    "domain": "prototype",
-    "role": "bombardero experimental",
-    "decade": "1960s",
-    "country": "Estados Unidos",
-    "propulsion": "turborreactor",
-    "engines": 6,
-    "image": "images/xb70.jpg",
-    "wikiTitle": "North_American_XB-70_Valkyrie"
-  },
-  {
     "id": "tsr2",
     "name": "BAC TSR-2",
     "manufacturer": "BAC",
@@ -23,20 +10,49 @@
     "propulsion": "turborreactor",
     "engines": 2,
     "image": "images/tsr2.jpg",
-    "wikiTitle": "BAC_TSR-2"
+    "wikiTitle": "BAC_TSR-2",
+    "isSupersonic": true
   },
   {
-    "id": "sukhoi-t4",
-    "name": "Sukhoi T-4",
-    "manufacturer": "Sukhoi",
+    "id": "boeing-2707",
+    "name": "Boeing 2707 SST",
+    "manufacturer": "Boeing",
     "domain": "prototype",
-    "role": "bombardero experimental",
+    "role": "prototipo supersónico civil",
     "decade": "1960s",
-    "country": "URSS",
+    "country": "Estados Unidos",
     "propulsion": "turborreactor",
     "engines": 4,
-    "image": "images/sukhoi-t4.jpg",
-    "wikiTitle": "Sukhoi_T-4"
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Boeing_2707"
+  },
+  {
+    "id": "canadair-cl84",
+    "name": "Canadair CL-84 Dynavert",
+    "manufacturer": "Canadair",
+    "domain": "prototype",
+    "role": "prototipo militar",
+    "decade": "1960s",
+    "country": "Canadá",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Canadair_CL-84_Dynavert"
+  },
+  {
+    "id": "dassault-mirage-g",
+    "name": "Dassault Mirage G",
+    "manufacturer": "Dassault",
+    "domain": "prototype",
+    "role": "prototipo militar",
+    "decade": "1960s",
+    "country": "Francia",
+    "propulsion": "turborreactor",
+    "engines": 1,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Dassault_Mirage_G"
   },
   {
     "id": "xc142",
@@ -50,5 +66,47 @@
     "engines": 4,
     "image": "images/xc142.jpg",
     "wikiTitle": "LTV_XC-142"
+  },
+  {
+    "id": "lockheed-l2000",
+    "name": "Lockheed L-2000",
+    "manufacturer": "Lockheed",
+    "domain": "prototype",
+    "role": "prototipo supersónico civil",
+    "decade": "1960s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Lockheed_L-2000"
+  },
+  {
+    "id": "xb70",
+    "name": "North American XB-70 Valkyrie",
+    "manufacturer": "North American Aviation",
+    "domain": "prototype",
+    "role": "bombardero experimental",
+    "decade": "1960s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 6,
+    "image": "images/xb70.jpg",
+    "wikiTitle": "North_American_XB-70_Valkyrie",
+    "isSupersonic": true
+  },
+  {
+    "id": "sukhoi-t4",
+    "name": "Sukhoi T-4",
+    "manufacturer": "Sukhoi",
+    "domain": "prototype",
+    "role": "bombardero experimental",
+    "decade": "1960s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "image": "images/sukhoi-t4.jpg",
+    "wikiTitle": "Sukhoi_T-4",
+    "isSupersonic": true
   }
 ]

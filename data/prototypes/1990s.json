@@ -10,7 +10,8 @@
     "propulsion": "turbofan",
     "engines": 1,
     "image": "images/x32.jpg",
-    "wikiTitle": "Boeing_X-32"
+    "wikiTitle": "Boeing_X-32",
+    "isSupersonic": true
   },
   {
     "id": "x35",
@@ -23,7 +24,8 @@
     "propulsion": "turbofan",
     "engines": 1,
     "image": "images/x35.jpg",
-    "wikiTitle": "Lockheed_Martin_X-35"
+    "wikiTitle": "Lockheed_Martin_X-35",
+    "isSupersonic": true
   },
   {
     "id": "x36",
@@ -36,7 +38,22 @@
     "propulsion": "turborreactor",
     "engines": 1,
     "image": "images/x36.jpg",
-    "wikiTitle": "McDonnell_Douglas_X-36"
+    "wikiTitle": "McDonnell_Douglas_X-36",
+    "isSupersonic": false
+  },
+  {
+    "id": "mikoyan-144",
+    "name": "Mikoyan MiG 1.44",
+    "manufacturer": "Mikoyan",
+    "domain": "prototype",
+    "role": "prototipo militar",
+    "decade": "1990s",
+    "country": "Rusia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Mikoyan_Project_1.44"
   },
   {
     "id": "su47",
@@ -50,5 +67,33 @@
     "engines": 2,
     "image": "images/su47.jpg",
     "wikiTitle": "Sukhoi_Su-47_Berkut"
+  },
+  {
+    "id": "sukhoi-su47",
+    "name": "Sukhoi Su-47 Berkut",
+    "manufacturer": "Sukhoi",
+    "domain": "prototype",
+    "role": "prototipo militar",
+    "decade": "1990s",
+    "country": "Rusia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Sukhoi_Su-47"
+  },
+  {
+    "id": "tupolev-tu244",
+    "name": "Tupolev Tu-244",
+    "manufacturer": "Tupolev",
+    "domain": "prototype",
+    "role": "prototipo supersónico civil",
+    "decade": "1990s",
+    "country": "Rusia",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Tupolev_Tu-244"
   }
 ]

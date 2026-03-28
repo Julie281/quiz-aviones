@@ -1,18 +1,5 @@
 [
   {
-    "id": "b2-spirit",
-    "name": "Northrop B-2 Spirit",
-    "manufacturer": "Northrop",
-    "domain": "military",
-    "role": "bombardero",
-    "decade": "1980s",
-    "country": "Estados Unidos",
-    "propulsion": "turbofan",
-    "engines": 4,
-    "image": "images/b2-spirit.jpg",
-    "wikiTitle": "Northrop_Grumman_B-2_Spirit"
-  },
-  {
     "id": "rafale",
     "name": "Dassault Rafale",
     "manufacturer": "Dassault",
@@ -23,7 +10,22 @@
     "propulsion": "turbofan",
     "engines": 2,
     "image": "images/rafale.jpg",
-    "wikiTitle": "Dassault_Rafale"
+    "wikiTitle": "Dassault_Rafale",
+    "isSupersonic": true
+  },
+  {
+    "id": "b2-spirit",
+    "name": "Northrop B-2 Spirit",
+    "manufacturer": "Northrop",
+    "domain": "military",
+    "role": "bombardero",
+    "decade": "1980s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": "images/b2-spirit.jpg",
+    "wikiTitle": "Northrop_Grumman_B-2_Spirit",
+    "isSupersonic": false
   },
   {
     "id": "gripen",
@@ -36,6 +38,49 @@
     "propulsion": "turbofan",
     "engines": 1,
     "image": "images/gripen.jpg",
-    "wikiTitle": "Saab_JAS_39_Gripen"
+    "wikiTitle": "Saab_JAS_39_Gripen",
+    "isSupersonic": true
+  },
+  {
+    "id": "sukhoi-su30",
+    "name": "Sukhoi Su-30",
+    "manufacturer": "Sukhoi",
+    "domain": "military",
+    "role": "caza",
+    "decade": "1980s",
+    "country": "URSS / Rusia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Sukhoi_Su-30"
+  },
+  {
+    "id": "tupolev-tu160",
+    "name": "Tupolev Tu-160",
+    "manufacturer": "Tupolev",
+    "domain": "military",
+    "role": "bombardero",
+    "decade": "1980s",
+    "country": "URSS / Rusia",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Tupolev_Tu-160"
+  },
+  {
+    "id": "xian-jh7",
+    "name": "Nanchang/Xian JH-7 Flying Leopard",
+    "manufacturer": "Xian",
+    "domain": "military",
+    "role": "ataque",
+    "decade": "1980s",
+    "country": "China",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Xi%27an_JH-7"
   }
 ]

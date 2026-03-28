@@ -1,5 +1,19 @@
 [
   {
+    "id": "concorde",
+    "name": "Aérospatiale/BAC Concorde",
+    "manufacturer": "Aérospatiale / BAC",
+    "domain": "civil",
+    "role": "supersónico comercial",
+    "decade": "1960s",
+    "country": "Francia / Reino Unido",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "image": "images/concorde.jpg",
+    "wikiTitle": "Concorde",
+    "isSupersonic": true
+  },
+  {
     "id": "boeing-727",
     "name": "Boeing 727",
     "manufacturer": "Boeing",
@@ -11,19 +25,6 @@
     "engines": 3,
     "image": "images/boeing-727.jpg",
     "wikiTitle": "Boeing_727"
-  },
-  {
-    "id": "douglas-dc9",
-    "name": "Douglas DC-9",
-    "manufacturer": "Douglas",
-    "domain": "civil",
-    "role": "transporte comercial",
-    "decade": "1960s",
-    "country": "Estados Unidos",
-    "propulsion": "turborreactor",
-    "engines": 2,
-    "image": "images/douglas-dc9.jpg",
-    "wikiTitle": "Douglas_DC-9"
   },
   {
     "id": "boeing-737-200",
@@ -52,16 +53,108 @@
     "wikiTitle": "Boeing_747"
   },
   {
-    "id": "concorde",
-    "name": "Aérospatiale/BAC Concorde",
-    "manufacturer": "Aérospatiale / BAC",
+    "id": "dassault-falcon-20",
+    "name": "Dassault Falcon 20",
+    "manufacturer": "Dassault",
+    "domain": "civil",
+    "role": "business jet",
+    "decade": "1960s",
+    "country": "Francia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Dassault_Falcon_20"
+  },
+  {
+    "id": "dassault-mercure",
+    "name": "Dassault Mercure",
+    "manufacturer": "Dassault",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1960s",
+    "country": "Francia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Dassault_Mercure"
+  },
+  {
+    "id": "douglas-dc9",
+    "name": "Douglas DC-9",
+    "manufacturer": "Douglas",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1960s",
+    "country": "Estados Unidos",
+    "propulsion": "turborreactor",
+    "engines": 2,
+    "image": "images/douglas-dc9.jpg",
+    "wikiTitle": "Douglas_DC-9"
+  },
+  {
+    "id": "ilyushin-il62",
+    "name": "Ilyushin Il-62",
+    "manufacturer": "Ilyushin",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1960s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Ilyushin_Il-62"
+  },
+  {
+    "id": "tupolev-tu114",
+    "name": "Tupolev Tu-114",
+    "manufacturer": "Tupolev",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1960s",
+    "country": "URSS",
+    "propulsion": "turbohélice",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Tupolev_Tu-114"
+  },
+  {
+    "id": "tupolev-tu134",
+    "name": "Tupolev Tu-134",
+    "manufacturer": "Tupolev",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1960s",
+    "country": "URSS",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Tupolev_Tu-134"
+  },
+  {
+    "id": "tupolev-tu144",
+    "name": "Tupolev Tu-144",
+    "manufacturer": "Tupolev",
     "domain": "civil",
     "role": "supersónico comercial",
     "decade": "1960s",
-    "country": "Francia / Reino Unido",
+    "country": "URSS",
     "propulsion": "turborreactor",
     "engines": 4,
-    "image": "images/concorde.jpg",
-    "wikiTitle": "Concorde"
+    "isSupersonic": true,
+    "image": null,
+    "wikiTitle": "Tupolev_Tu-144"
+  },
+  {
+    "id": "yakovlev-yak40",
+    "name": "Yakovlev Yak-40",
+    "manufacturer": "Yakovlev",
+    "domain": "civil",
+    "role": "reactor regional",
+    "decade": "1960s",
+    "country": "URSS",
+    "propulsion": "turborreactor",
+    "engines": 3,
+    "image": null,
+    "wikiTitle": "Yakovlev_Yak-40"
   }
 ]

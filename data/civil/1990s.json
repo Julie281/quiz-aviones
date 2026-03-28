@@ -1,29 +1,29 @@
 [
   {
-    "id": "crj200",
-    "name": "Bombardier CRJ200",
-    "manufacturer": "Bombardier",
+    "id": "airbus-a319",
+    "name": "Airbus A319",
+    "manufacturer": "Airbus",
     "domain": "civil",
-    "role": "reactor regional",
+    "role": "transporte comercial",
     "decade": "1990s",
-    "country": "Canadá",
+    "country": "Europa",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/crj200.jpg",
-    "wikiTitle": "Bombardier_CRJ200"
+    "image": null,
+    "wikiTitle": "Airbus_A320_family"
   },
   {
-    "id": "erj145",
-    "name": "Embraer ERJ-145",
-    "manufacturer": "Embraer",
+    "id": "airbus-a321",
+    "name": "Airbus A321",
+    "manufacturer": "Airbus",
     "domain": "civil",
-    "role": "reactor regional",
+    "role": "transporte comercial",
     "decade": "1990s",
-    "country": "Brasil",
+    "country": "Europa",
     "propulsion": "turbofan",
     "engines": 2,
-    "image": "images/erj145.jpg",
-    "wikiTitle": "Embraer_ERJ_family"
+    "image": null,
+    "wikiTitle": "Airbus_A320_family"
   },
   {
     "id": "airbus-a330-300",
@@ -42,6 +42,32 @@
     "wikiTitle": "Airbus_A330"
   },
   {
+    "id": "airbus-a340-300",
+    "name": "Airbus A340-300",
+    "manufacturer": "Airbus",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1990s",
+    "country": "Europa",
+    "propulsion": "turbofan",
+    "engines": 4,
+    "image": null,
+    "wikiTitle": "Airbus_A340"
+  },
+  {
+    "id": "boeing-717-200",
+    "name": "Boeing 717-200",
+    "manufacturer": "Boeing",
+    "domain": "civil",
+    "role": "transporte comercial",
+    "decade": "1990s",
+    "country": "Estados Unidos",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Boeing_717"
+  },
+  {
     "id": "boeing-777-200er",
     "name": "Boeing 777-200ER",
     "manufacturer": "Boeing",
@@ -56,5 +82,96 @@
     "rangeNm": 7065,
     "image": "images/boeing-777-200er.jpg",
     "wikiTitle": "Boeing_777"
+  },
+  {
+    "id": "bombardier-crj100",
+    "name": "Bombardier CRJ100",
+    "manufacturer": "Bombardier",
+    "domain": "civil",
+    "role": "reactor regional",
+    "decade": "1990s",
+    "country": "Canadá",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Bombardier_CRJ100/200"
+  },
+  {
+    "id": "crj200",
+    "name": "Bombardier CRJ200",
+    "manufacturer": "Bombardier",
+    "domain": "civil",
+    "role": "reactor regional",
+    "decade": "1990s",
+    "country": "Canadá",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/crj200.jpg",
+    "wikiTitle": "Bombardier_CRJ200"
+  },
+  {
+    "id": "bombardier-crj700",
+    "name": "Bombardier CRJ700",
+    "manufacturer": "Bombardier",
+    "domain": "civil",
+    "role": "reactor regional",
+    "decade": "1990s",
+    "country": "Canadá",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Bombardier_CRJ700_series"
+  },
+  {
+    "id": "bombardier-global-express",
+    "name": "Bombardier Global Express",
+    "manufacturer": "Bombardier",
+    "domain": "civil",
+    "role": "business jet",
+    "decade": "1990s",
+    "country": "Canadá",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Bombardier_Global_Express"
+  },
+  {
+    "id": "bombardier-q400",
+    "name": "Bombardier Q400",
+    "manufacturer": "Bombardier",
+    "domain": "civil",
+    "role": "turbohélice regional",
+    "decade": "1990s",
+    "country": "Canadá",
+    "propulsion": "turbohélice",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "De_Havilland_Canada_Dash_8"
+  },
+  {
+    "id": "dassault-falcon-2000",
+    "name": "Dassault Falcon 2000",
+    "manufacturer": "Dassault",
+    "domain": "civil",
+    "role": "business jet",
+    "decade": "1990s",
+    "country": "Francia",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": null,
+    "wikiTitle": "Dassault_Falcon_2000"
+  },
+  {
+    "id": "erj145",
+    "name": "Embraer ERJ-145",
+    "manufacturer": "Embraer",
+    "domain": "civil",
+    "role": "reactor regional",
+    "decade": "1990s",
+    "country": "Brasil",
+    "propulsion": "turbofan",
+    "engines": 2,
+    "image": "images/erj145.jpg",
+    "wikiTitle": "Embraer_ERJ_family"
   }
 ]
